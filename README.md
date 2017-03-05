@@ -182,7 +182,7 @@ All together, you can decide to **give back** one or more of your bee cards in o
 
 Each *worker*, *austerity* and *drone* bee can get you 1 flower. The *queen* is worth 2 flowers.
 
-You don't all have to give back the same number or type of cards. For example, one player may decide to give back 1 bee, and another player 3 bees. Discuss and try to reach a consensus. Remember, **if the garden runs out of flowers, everybody loses. **
+You don't all have to give back the same number or type of cards. For example, one player may decide to give back 1 bee, and another player 3 bees. Discuss and try to reach a consensus. Remember, **if the garden runs out of flowers, everybody loses.**
 
 #### End of the month
 
