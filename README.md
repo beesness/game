@@ -17,20 +17,20 @@
 
 # Open Beesness
 
-### A *playable* simulation of a **capitalist market economy** 
+### A playable simulation of a *capitalist market economy* 
 
-As a player, you control a *bee colony*. 
+As a player, you control a **bee colony**. 
 
 These are special bees. They have learned how to do *beesness* from us humans. 
 
-Every colony operates in the *garden of Commons*.
+Every colony operates in the **garden of Commons**.
 
-Throughout the game, you can deploy different *beesness models*: from trading flowers for honey, to stealing other colonies' honey, privatising flowers and other nasty moves..
+Throughout the game, you can deploy different *beesness models*: from **trading** flowers for honey, to **extorting** honey from other colonies, **privatising** flowers and other nasty moves..
 
 
 ### Your goal
 
-To have the most **honey** at the end of the year!
+To have the most *honey* at the end of the year!
 
 #### End game scenarios
 
@@ -78,10 +78,10 @@ Place the **colonial cards** on the side and face up, stacked by type (4 stacks)
 
 Name | Price <sup>honey	| Skills
 ---- | ----------------	| ------
-**Worker** bee <br>![](assets/worker-bee.png) | 4    	| It can **take 1 flower / month** <br>**IF** the garden has more than half of the starting flowers <br> (eg: `if flowers > 10` when there are 4 players) 
-**Austerity** bee <br>![](assets/austerity-bee.png) | 8    	| It can **take 1 flower / month** <br>(no matter what)
-**Drone** bee <br>![](assets/drone-bee.png) | 8    	| It can **take 2 honey / month** <br> from another colony
-**Queen** <br>![](assets/queen.png) | 16   	| It can **generate 1 bee / month** <br>OR<br> **privatise 1 flower / month**
+**Worker** bee <br>![](assets/worker-bee.png) | **4** | It can **take 1 flower / month** <br>**if** the garden has more than half of the starting flowers <br> (eg: `if flowers > 10` when there are 4 players) 
+**Austerity** bee <br>![](assets/austerity-bee.png) | **8** | It can **take 1 flower / month** <br>(no matter what)
+**Drone** bee <br>![](assets/drone-bee.png) | **8** | It can **take 2 honey / month** <br> from another colony
+**Queen** <br>![](assets/queen.png) | **16** | It can **generate 1 bee / month** <br>OR<br> **privatise 1 flower / month**
 
 
 ## Gameplay
@@ -110,7 +110,7 @@ Then you use your cards to execute your strategy. You can play from zero cards (
 	
 IF	| AND | THEN
 -------	| --- | ----
-if you have 2 *worker bees* | there are **more than half** of the initial number of flowers in the *garden of Commons* | you can take 2 flowers
+you have 2 *worker bees* | there are **more than half** of the initial number of flowers in the *garden of Commons* | you can take 2 flowers
 you want to use a *worker bee* to take flowers | there are **half or less than half** of the initial number of flowers in the *garden of Commons* | you cannot take flowers with that card
 you have 1 *drone* |  | you can take 2 honey from another colony
 you want to deploy *drones* against another player | they have less honey than you could take | you can force them to use one or more of their colonial cards as *payment* (eg: put a *worker bee* back to the stack, get 4 honey from the bank and pay you) 	
@@ -130,7 +130,7 @@ TOTAL FLOWERS | HONEY PER FLOWER
 
 Each player gets an amount of honey equal to the market price multiplied by the number of flowers they took this month. 
 	
-> For example: if you took 2 flowers and their individual value is 4, then you'll get 8 honey from the bank.
+> For example: if you took 2 flowers and their individual value is 3, then you'll get 6 honey from the bank.
 	
 Set apart the flowers taken from the garden. 
 
