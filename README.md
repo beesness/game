@@ -1,24 +1,3 @@
-<!--### TODO
-
-- [x] Tech? No tech
-- [x] Can you trade tech for bees? Nope.
-- [x] How many bees do you start with?
-- [ ] We also have beeswax, pesticides, sting, pollen, nectar..
-- [x] *Nectar cards*? Nectar and pollen are bees' food. In literal terms, these would be *extraction power* cards. We could have one nectar card which gives you *competitive advantage*: the right to start a turn. But it's a bit of a gimmick.
-- [x] Queen - worker - drones
-- [ ] scarce harvest?
-- [ ] colonial cards or just cards?
-- [ ]Different types of flowers?
-- [ ] What happens when there are no flowers left? Declare a winner, everybody loses, something else?
-- [ ] Bankruptcy?
-- [ ] Artist bees to keep the colony happy
-- [ ] Convert drones into useful bees?
-- [ ] Benefit bees -> drones after 2-3 attacks
-- [x] Print honey notes?
-- [ ] Event cards?
-- [ ] Roll the die to determine the replenishing factor?
--->
-
 ![](assets/bees.png)
 
 # Beesness
@@ -128,16 +107,18 @@ Pay the bank and add the card(s) to your colony.
 Deploy as many of your cards as you wish. 
 
 You can deploy newly acquired bees immediately (no need to wait for the next round).
-	
-**For example**
-	
-IF | THEN
--- | ----
-you have 2 ***workers*** | you can take 2 flowers
-you have 1 ***drone*** | you can take 3 honey from another colony
-you want to deploy ***drones*** against another player AND they have less honey than you could take | you can force them to use one or more of their bee cards as *payment* (eg: put a *worker bee* back to the stack, get 6 honey from the bank and pay you) 
-you use **drones** to pillage another colony | you have to wait for your next turn to invest the loot 	
-you have a **queen** | you can **privatise** a flower (that is, keep it in your colony, [more details on this below](#privatise)) 
+
+> For example
+
+> If you have 2 ***workers***, you can take 2 flowers.
+
+> If you have 1 ***drone***, you can take 3 honey from another colony.
+
+> If you want to deploy ***drones*** against another player but they have less honey than you could take, you can force them to use one or more of their bee cards as *payment* (eg: put a *worker bee* back to the stack, get 6 honey from the bank and pay you). 
+
+> If you use **drones** to pillage another colony, you have to wait for your next turn to invest the loot.
+ 	
+> If you have a **queen**, you can **privatise** a flower (that is, keep it in your colony, [more details on this below](#privatise)). 
 
 #### Can I sell bees?
 
