@@ -60,14 +60,14 @@ From **2** to **infinity**.
 
 Plant **flowers** in the garden. To start with, place 6 flower tokens for each player on the **table**.
 
-Players			| Flowers
------- 			| -------
-2  				| 12
-3  				| 18
-4  				| 24
-5  				| 30
-6  				| 36
-etc.  			| The formula: 6 × players
+Players	| Flowers
+------ 	| -------
+2       | 12
+3       | 18
+4       | 24
+5       | 30
+6       | 36
+etc.    | The formula: 6 × players
 
 ### The honey pot bank 
  
@@ -131,13 +131,13 @@ You can deploy newly acquired bees immediately (no need to wait for the next rou
 	
 **For example**
 	
-IF	| AND | THEN
---	| --- | ----
-you have 2 ***workers*** | | you can take 2 flowers
-you have 1 ***drone*** |  | you can take 3 honey from another colony
-you want to deploy ***drones*** against another player | they have less honey than you could take | you can force them to use one or more of their bee cards as *payment* (eg: put a *worker bee* back to the stack, get 6 honey from the bank and pay you) 
-you use **drones** to pillage another colony | | you have to wait for your next turn to invest the loot 	
-you have a **queen** |  | you can **privatise** a flower (that is, keep it in your colony, [more details on this below](#privatise)). 
+IF | THEN
+-- | ----
+you have 2 ***workers*** | you can take 2 flowers
+you have 1 ***drone*** | you can take 3 honey from another colony
+you want to deploy ***drones*** against another player AND they have less honey than you could take | you can force them to use one or more of their bee cards as *payment* (eg: put a *worker bee* back to the stack, get 6 honey from the bank and pay you) 
+you use **drones** to pillage another colony | you have to wait for your next turn to invest the loot 	
+you have a **queen** | you can **privatise** a flower (that is, keep it in your colony, [more details on this below](#privatise)) 
 
 #### Can I sell bees?
 
