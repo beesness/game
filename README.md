@@ -18,7 +18,7 @@ To have the most *honey* at the end of the year!
 
 #### End game scenarios
 
-1. At the end of the year (12 turns), the colony with the **most honey wins**, provided there are still flowers left in the *garden*.
+1. At the end of the year (12 rounds), the player with the **most honey wins**, provided there are still flowers left in the *garden*.
 * If all flowers are taken from the garden, at any point during the game, **everybody loses**.
 
 ## Ingredients
@@ -38,7 +38,7 @@ From **2** to **infinity**.
 
 ### The garden of Commons
 
-Plant **flowers** in the garden. To start with, place 6 flower tokens for each player on the **table**.
+Plant **flowers** in the garden. To start with, place 6 flower tokens for each player on the table.
 
 Players	| Flowers
 ------ 	| -------
@@ -63,9 +63,9 @@ Place the **bee cards** face up, stacked by bee type.
 
 Type | Price <sup>honey	| Skills
 ---- | ----------------	| ------
-**Worker** bee <br>![](assets/worker-bee.png) | **6** | It can **take 1 flower per month** 
-**Drone** bee <br>![](assets/drone-bee.png) | **12** | It can **take 3 honey per month** <br>from another colony
-**Queen** bee <br>![](assets/queen.png) | **18** | It can  **privatise 1 flower per month** <br>(you'll learn what these mean later)
+**Worker** bee <br><br>![](assets/worker-bee.png) | **6** | It can **take 1 flower per month** 
+**Drone** bee <br><br>![](assets/drone-bee.png) | **12** | It can **take 3 honey per month** <br>from another colony
+**Queen** bee <br><br>![](assets/queen.png) | **18** | It can  **privatise 1 flower per month** <br>(you'll learn what these mean later)
 
 ### The calendar 
 
@@ -131,7 +131,7 @@ You can **trade bees with other players** though. See if anyone is interested in
 
 After all players have executed their *beesness plans*, determine the **price of one flower** for this *month*.
 
-The maximum you can get for a flower is 3 honey, when only a few flowers have been taken. The more flowers are taken from the garden, the less they are valued on the market (aka [*supply&demand*](https://en.wikipedia.org/wiki/Supply_and_demand)).
+The maximum you can get for a flower is 3 honey, when only a few flowers have been taken from the garden. The more flowers are extracted, the less they are valued on the market (aka [*supply&demand*](https://en.wikipedia.org/wiki/Supply_and_demand)).
 
 Count how many flowers have been taken from the garden by all players this round and check the price chart below.  
 
@@ -145,7 +145,7 @@ Your flowers are now sold. Discard them.
 
 #### Privatise
 
-If you have a *queen*, you can keep one flower per month and still get paid for it. From the next month, this **privatised** flower will generate more honey for you at its current market value.
+If you have a *queen*, you can **keep one flower per month and still get paid for it**. From the next month, this privatised flower will generate more honey for you at its current market value.
 
 Privatised flowers don't count when working out the flowers' price at the end of a round. 
 
