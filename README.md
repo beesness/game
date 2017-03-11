@@ -29,7 +29,8 @@ To have the most *honey* at the end of the year!
 * [Honey tokens](#the-honey-pot-bank) 
 * [Bee cards](#meet-the-bees)
 * Flower - honey [price chart](#2-sell-your-flowers-for-honey)
-* Turns tracker (aka the [calendar](#the-calendar))  
+* Turns tracker (aka the [calendar](#the-calendar)) 
+* A 6-sided die 
 
 ### How many players? 
 
@@ -128,7 +129,11 @@ You can **trade bees with other players** though. See if anyone is interested in
 
 ### 2. Sell your flowers for honey!
 
-After all players have executed their strategies, determine the **price of one flower** for this *month*. 	
+After all players have executed their strategies, determine the **price of one flower** for this *month*.
+
+The maximum you can get for a flower is 3 honey, when only a few flowers have been taken. The more flowers are taken from the garden, the less they are valued on the market (aka [*supply&demand*](https://en.wikipedia.org/wiki/Supply_and_demand)).
+
+Count how many flowers have been taken from the garden by all players this round and check the price chart below.  
 
 ![](assets/price-chart.png)
  
@@ -142,11 +147,15 @@ Your flowers are now sold. Discard them.
 
 If you have a *queen*, you can keep one flower per month and still get paid for it. From the next month, this **privatised** flower will generate more honey for you at its current market value.
 
+Privatised flowers don't count when working out the flowers' price at the end of a round. 
+
+> For example: you have taken 2 flowers from the garden this round and you have 1 privatised flower from the previous round. Only flowers taken from the garden count to determine the price per flower, so you count for 2. Let's say 10 flowers were taken from the garden this round and there are 4 players, so each flower is worth 2 honey. You will get 4 honey for the flowers you took, plus 2 for the privatised one: 6 honey in total. 
+
 ### 3. Replant the garden!
 
-At the end of the round, **replant one flower per player**.
+At the end of the round, **replant one flower per player**. Then **roll the die** and replant as many flowers as the die says.
 
-> For example: if there are 4 players, add 4 flowers to the *garden*.
+> For example: if there are 4 players, add 4 flowers to the *garden*. Then roll the die: it's a 2, so you add another 2 flowers.
 
 #### If flowers are running out... 
 
@@ -169,72 +178,6 @@ The game ends at the end of the last month.
 #### Does my bees arsenal count at the end of the game?
 
 No. It's just the honey you have (that is, your *profits*) and not the overall valuation of your colony. 
-
-
-
-
-
-
-
-
-<!--
-
-### Unpacking the metaphors
-
-Just in case you still think this is about *bees*.
-
-Symbol			| Meaning
------- 			| -------
-Colony  		| Private company / corporation
-Flowers			| The Commons <sup>ideas, raw materials etc.
-Honey			| Money
-Turns			| Time
-Worker bees		| Self-explanatory
-Drones			| Military?
-Queens			| Growth?
-Nectar card		| Competitive advantage
-
-#### What other metaphors can you think of?
-
-Could you *re-skin* this game with a different set of symbols? 
-
-How would that impact the meaning(s) produced during the gameplay?
-
--->
-
-<!-- 	
-**Total** flowers  | 2 players | 3 players | 4 players | 5 players | 6 players 
------------------ | --------- | --------- | --------- | --------- | ---------
- 2 | 3 | 3 | 3 | 3 | 3
- 3 | 3 | 3 | 3 | 3 | 3
- 4 | 2 | 3 | 3 | 3 | 3
- 5 | 2 | 3 | 3 | 3 | 3
- 6 | 2 | 2 | 3 | 3 | 3
- 7 | 2 | 2 | 3 | 3 | 3
- 8 | 2 | 2 | 2 | 3 | 3
- 9 | 1 | 2 | 2 | 3 | 3
-10 | 1 | 2 | 2 | 2 | 3
-11 | 1 | 2 | 2 | 2 | 3
-12 | 1 | 2 | 2 | 2 | 2
-13 | 1 | 1 | 2 | 2 | 2
-14 | 1 | 1 | 2 | 2 | 2
-15 | 1 | 1 | 2 | 2 | 2 
-16 | 1 | 1 | 1 | 2 | 2
-17 | 1 | 1 | 1 | 2 | 2
-18 | 1 | 1 | 1 | 2 | 2
-19 | 1 | 1 | 1 | 2 | 2
-20 | 1 | 1 | 1 | 2 | 2
-21 | 1 | 1 | 1 | 1 | 2
-22 | 1 | 1 | 1 | 1 | 2
-23 | 1 | 1 | 1 | 1 | 2
-24 | 1 | 1 | 1 | 1 | 2
-25 | 1 | 1 | 1 | 1 | 1  	
--->
-
-
-
-
-
 
 
 ### License
