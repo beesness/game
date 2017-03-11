@@ -10,7 +10,7 @@ These are special bees. They have learned how to do *beesness* from us humans.
 
 Every colony operates in the **garden of Commons**.
 
-Throughout the game, you can deploy different *beesness models*: from **trading** flowers for honey, to **extorting** honey from other colonies, **privatising** flowers and other nasty moves..
+Throughout the game, you can experiment with different *beesness plans*: from **trading** flowers for honey, to **extorting** honey from other colonies, **privatising** flowers and other nasty moves...
 
 ### Your goal
 
@@ -80,7 +80,7 @@ Put a **month marker** (any token) on the first month of the year.
 
 There are two ways to decide this:
 
-1. By **bidding honey**, aka *beedding*. The highest *beedder* pays the bank and gets the right to execute their *beesness strategy* before all other players.
+1. By **bidding honey**, aka *beedding*. The highest *beedder* pays the bank and gets the right to execute their *beesness plan* before all other players.
 	
 	If you wish, you can *beed* to start at the beginning of every round.
 2. If nobody wants to *beed*, then you will rotate the starting player. If you started this round, the player to your left will start the next.
@@ -89,11 +89,11 @@ Play proceeds *clockwise*.
 
 ### There are three steps to every round
 
-1. One player at a time, you [execute your *beesness strategy*](#1-execute-your-beesness-strategy)
+1. One player at a time, you [execute your *beesness plan*](#1-execute-your-beesness-plan)
 2. All together, you [sell your flowers for honey](#2-sell-your-flowers-for-honey)
 3. All together, you [replant the garden](#3-replant-the-garden)
 
-### 1. Execute your beesness strategy!
+### 1. Execute your beesness plan!
 
 #### Invest
 
@@ -129,7 +129,7 @@ You can **trade bees with other players** though. See if anyone is interested in
 
 ### 2. Sell your flowers for honey!
 
-After all players have executed their strategies, determine the **price of one flower** for this *month*.
+After all players have executed their *beesness plans*, determine the **price of one flower** for this *month*.
 
 The maximum you can get for a flower is 3 honey, when only a few flowers have been taken. The more flowers are taken from the garden, the less they are valued on the market (aka [*supply&demand*](https://en.wikipedia.org/wiki/Supply_and_demand)).
 
