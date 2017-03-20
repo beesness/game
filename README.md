@@ -109,16 +109,11 @@ Deploy as many of your cards as you wish.
 
 You can deploy newly acquired bees immediately (no need to wait for the next round).
 
-> For example
-
-> If you have 2 ***workers***, you can take 2 flowers.
-
-> If you have 1 ***drone***, you can take 3 honey from another colony.
-
-> If you want to deploy ***drones*** against another player but they have less honey than you could take, you can force them to use one or more of their bee cards as *payment* (eg: put a *worker bee* back to the stack, get 6 honey from the bank and pay you). 
-
-> If you use **drones** to pillage another colony, you have to wait for your next turn to invest the loot.
- 	
+> For example <br><br>
+> If you have 2 ***workers***, you can take 2 flowers. <br><br>
+> If you have 1 ***drone***, you can take 3 honey from another colony. <br><br>
+> If you want to deploy ***drones*** against another player but they have less honey than you could take, you can force them to use one or more of their bee cards as *payment* (eg: put a *worker bee* back to the stack, get 6 honey from the bank and pay you). <br><br>
+> If you use **drones** to pillage another colony, you have to wait for your next turn to invest the loot. <br><br>	
 > If you have a **queen**, you can **privatise** (keep) one of the flowers taken by your workers. From the next month, this privatised flower will generate more honey for you at its current market value. 
 
 #### Can I sell bees?
@@ -137,7 +132,7 @@ To determine the **price of one flower** for this *month*, count **how many flow
  
 Each player gets paid in honey, from the bank, for the flowers they took this month. 
 	
-> For example: if you took 2 flowers and their individual value is 3, then you'll get 6 honey from the bank.
+> For example <br><br>If you took 2 flowers and their individual value is 3, then you'll get 6 honey from the bank.
 	
 Your flowers are now sold. Discard them. 
 
@@ -147,13 +142,13 @@ If you have a *queen*, you can **keep one flower per month and still get paid fo
 
 Privatised flowers don't count when working out the flowers' price at the end of a round. 
 
-> For example: you have taken 2 flowers from the garden this round and you have 1 privatised flower from the previous round. Only flowers taken from the garden count to determine the price per flower, so you count for 2. Let's say 10 flowers were taken from the garden this round and there are 4 players, so each flower is worth 2 honey. You will get 4 honey for the flowers you took, plus 2 for the privatised one: 6 honey in total. 
+> For example <br><br>You have taken 2 flowers from the garden this round and you have 1 privatised flower from the previous round. Only flowers taken from the garden count to determine the price per flower, so you count for 2. Let's say 10 flowers were taken from the garden this round and there are 4 players, so each flower is worth 2 honey. You will get 4 honey for the flowers you took, plus 2 for the privatised one: 6 honey in total. 
 
 ### 3. Replant the garden!
 
 At the end of the round, **replant one flower per player**. Then **roll the die** and replant as many flowers as the die says. :game_die:
 
-> For example: if there are 4 players, add 4 flowers to the *garden*. Then roll the die: it's a 2, so you add another 2 flowers.
+> For example <br><br>If there are 4 players, add 4 flowers to the *garden*. Then roll the die: it's a 2, so you add another 2 flowers.
 
 #### If flowers are running out... 
 
