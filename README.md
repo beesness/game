@@ -4,13 +4,13 @@
 
 ### A playable simulation of a *capitalist market economy* 
 
-As a player, you control a **bee colony**. 
+As a player, you control a **colony of bees**. 
 
 These are special bees. They have learned how to do *beesness* from us humans. 
 
 Every colony operates in the **garden of Commons**.
 
-Throughout the game, you can experiment with different *beesness plans*: from **trading** flowers for honey, to **extorting** honey from other colonies, **privatising** flowers and other nasty moves...
+Throughout the game, you can experiment with different *beesness plans*: from **trading** flowers for honey, honey for bees, to **extorting** honey from other colonies, **privatising** flowers and other nasty moves...
 
 ### Your goal
 
@@ -55,7 +55,7 @@ Put all the **honey** in one pot (or pile). That will be the **bank**.
 
 ### The colony
 
-Each player starts with an initial capital of **12 honey**. 
+Each player starts with an initial capital of **12 honey**. On top of that 12, each player **rolls the die** and gets as much honey as the die says. This could bring your initial capital to 18 honey! :game_die:
 
 ### Meet the bees
 
@@ -63,9 +63,9 @@ Place the **bee cards** face up, stacked by bee type.
 
 Type | Price <sup>honey	| Skills
 ---- | ----------------	| ------
-**Worker** bee <br><br>![](assets/worker-bee.png) | **6** | It can **take 1 flower per month** 
-**Drone** bee <br><br>![](assets/drone-bee.png) | **12** | It can **take 3 honey per month** <br>from another colony
-**Queen** bee <br><br>![](assets/queen.png) | **18** | It can  **privatise 1 flower per month** <br>(you'll learn what these mean later)
+**Worker** bee <br><br>![](assets/worker-bee.png) | **6** | It can **take 1 flower per month** from the garden. At the end of each round, you trade flowers for honey. 
+**Drone** bee <br><br>![](assets/drone-bee.png) | **12** | It can **take 3 honey per month** from other colonies (in different combinations, eg: 3 honey from 1 colony, 1 honey from 3 different colonies, 2 from 1 colony and 1 from another)
+**Queen** bee <br><br>![](assets/queen.png) | **18** | It can **privatise 1 flower per month**. Privatising means you can keep flowers (instead of trading them) and still get paid. 
 
 ### The calendar 
 
@@ -83,9 +83,9 @@ There are two ways to decide this:
 1. By **bidding honey**, aka *beedding*. The highest *beedder* pays the bank and gets the right to execute their *beesness plan* before all other players.
 	
 	If you wish, you can *beed* to start at the beginning of every round.
-2. If nobody wants to *beed*, then you will rotate the starting player. If you started this round, the player to your left will start the next.
+2. If nobody wants to *beed*, then you will **rotate the starting player**. If you started this round, the player to your left will start the next.
 
-Play proceeds *clockwise*.
+Play proceeds **clockwise**.
 
 ### There are three steps to every round
 
@@ -119,7 +119,7 @@ You can deploy newly acquired bees immediately (no need to wait for the next rou
 
 > If you use **drones** to pillage another colony, you have to wait for your next turn to invest the loot.
  	
-> If you have a **queen**, you can **privatise** a flower (that is, keep it in your colony, [more details on this below](#privatise)). 
+> If you have a **queen**, you can **privatise** (keep) one of the flowers taken by your workers. From the next month, this privatised flower will generate more honey for you at its current market value. 
 
 #### Can I sell bees?
 
@@ -129,13 +129,11 @@ You can **trade bees with other players** though. See if anyone is interested in
 
 ### 2. Sell your flowers for honey!
 
-After all players have executed their *beesness plans*, determine the **price of one flower** for this *month*.
+After all players have executed their *beesness plans*, you can trade your flowers for honey.
 
-The maximum you can get for a flower is 3 honey, when only a few flowers have been taken from the garden. The more flowers are extracted, the less they are valued on the market (aka [*supply&demand*](https://en.wikipedia.org/wiki/Supply_and_demand)).
+The maximum you can get for a flower is 3 honey, when only a few flowers have been taken from the garden. The more flowers, the less they are valued on the market (aka [*supply&demand*](https://en.wikipedia.org/wiki/Supply_and_demand)).
 
-Count how many flowers have been taken from the garden by all players this round and check the price chart below.  
-
-![](assets/price-chart.png)
+To determine the **price of one flower** for this *month*, count **how many flowers have been taken from the garden by all players** this round and check the *price chart* corresponding to the number of players.
  
 Each player gets paid in honey, from the bank, for the flowers they took this month. 
 	
@@ -153,17 +151,19 @@ Privatised flowers don't count when working out the flowers' price at the end of
 
 ### 3. Replant the garden!
 
-At the end of the round, **replant one flower per player**. Then **roll the die** and replant as many flowers as the die says.
+At the end of the round, **replant one flower per player**. Then **roll the die** and replant as many flowers as the die says. :game_die:
 
 > For example: if there are 4 players, add 4 flowers to the *garden*. Then roll the die: it's a 2, so you add another 2 flowers.
 
 #### If flowers are running out... 
 
+Remember, **if the garden runs out of flowers, everybody loses.**
+
 All together, you can decide to **give back** one or more of your bee cards in order to replenish the garden. 
 
 Each *worker* and *drone* bee can get you 1 flower. The *queen* is worth 2 flowers.
 
-You don't all have to give back the same number or type of cards. For example, one player may decide to give back 1 bee, and another player 3 bees. Discuss and try to reach a consensus. Remember, **if the garden runs out of flowers, everybody loses.**
+You don't all have to give back the same number or type of cards. For example, one player may decide to give back 1 bee, and another player 3 bees. Discuss and try to reach a consensus. 
 
 #### End of the month
 
