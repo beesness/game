@@ -97,7 +97,7 @@ Type | Price <sup>honey	| Skills
 **Drone** bee <br><br>![](assets/drone-bee.png) | **12** | It can **take up to 3 honey per month** from other beesnesses (in any combination, eg: 3 honey from 1 beesness, 1 honey from 3 different beesnesses, 2 from 1 beesness and 1 from another, etc.)
 **Queen** bee <br><br>![](assets/queen.png) | **18** | It can you can **buy other beesness cards at half their normal price**. 
 
-### Anatomy of a beesness card
+## Anatomy of a beesness card
 
 ![](assets/anatomy.png)
 
@@ -146,7 +146,7 @@ Put the cards you are sacrificing onto their stack next to the bank and replant 
 
 
 
-### License
+## License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0)
 
