@@ -11,7 +11,8 @@ Every beesness operates in the **garden of Commons**. If all flowers are taken f
 Will you manage to maximise your honey profits while avoiding *drone strikes* and a collective *beesaster*?
 
 
-# How to *beegin* (setup)
+
+# How to *beegin* <sup>setup</sup>
 
 ![](assets/setup.png)
 
@@ -26,9 +27,11 @@ Will you manage to maximise your honey profits while avoiding *drone strikes* an
 	> For example: if there are 4 players, plant 24 flowers. 
 
 
-# How to *beehave* (gameplay)
 
-Players take turns, going **clockwise** :arrows_clockwise: around the table.
+# How to *beehave* <sup>gameplay</sup> 
+
+### Players take turns, going *clockwise* :alarm_clock: around the table.
+
 
 ## Who starts the round?
 
@@ -39,35 +42,28 @@ There are two ways to decide this:
 	If you wish, you can *beed* to start at the beginning of every round.
 2. If nobody wants to *beed*, then you will **rotate the starting player**. If you started this round, the player to your left will start the next.
 
+
 ## On your turn
 
-At the beginning of your turn you can **buy beesness cards** to grow your beesness. Then you can use your beesness cards to **execute your beesness plan**.
+### At the beginning of your turn you can **buy beesness cards** to grow your beesness. Then you can use your beesness cards to **execute your beesness plan**.
 
 1. **Buy beesness cards**! 
 
 	If you want and can afford their price, you *can* buy one or more beesness cards. 
 	
 	Pay the bank the price for each card in honey and add the card(s) to your beesness. 
-	
-	Bear in mind that you are not allowed to make your bees *redundant*, i.e. sell them back to the bank. You can trade beesness cards with other players though. See if anyone is interested in your bees and negotiate a price.
 2. **Execute your beesness plan**!  
 
 	Every beesness card has a skill. Use as many of your cards as you like. 
 
 	You can deploy newly acquired bees immediately, there's no need to wait for the next round.
+	
+	> For example: you have 2 workers, 1 drone and 1 queen. You could use your queen to buy an extra drone at half price. Then use your 2 workers to pick 2 flowers (1 flower each) and use your drones to steal up to 6 honey from other beesnesses (n any combination).
 
-<!--
-	> For example <br><br>
-	> If you have 2 ***workers***, you can pick 2 flowers from the garden. <br><br>
-	> If you have 1 ***drone***, you can steal up to 3 honey from other beesnesses (in any combination, either 3 from the same beesness, or 1 from 3 different beesnesses, 2 + 1, etc.). <br><br>
-	> If you want to deploy ***drones*** against another player but they have less honey than you could take, you can force them to use one or more of their beesnesses cards as *payment* (eg: put a *worker bee* back to the stack, get 6 honey from the bank and pay you). <br><br>
-	> If you use **drones** to pillage another beesness, you have to wait for your next turn to invest the loot. <br><br>	
-	> If you have a **queen**, you can buy other beesness cards at half their normal price. 
--->
 
 ## At the end of a round
 
-When all players have executed their *beesness plans*, the bank opens the **stalk exchange** and you have 1 minute to trade your flowers (as many as you want) for honey. Then you **replant the garden** and move to the next round.
+## When all players have executed their *beesness plans*, the bank opens the **stalk exchange** and you have 1 minute to trade your flowers (as many as you want) for honey. Then you **replant the garden** and move to the next round.
 
 1. **Trade flowers on the stalk exchange**!
 
@@ -81,7 +77,7 @@ When all players have executed their *beesness plans*, the bank opens the **stal
  
 	You get paid in honey, from the bank, for the flowers you are trading. 
 	
-	> For example, if you are trading 2 flowers and their individual price is 3 honey, you get 6 honey from the bank.
+	> For example: if you are trading 2 flowers and their individual price is 3 honey, you get 6 honey from the bank.
 
 	Your flowers are now sold. Discard them.
 
@@ -105,20 +101,16 @@ Type | Price <sup>honey	| Skills
 ![](assets/anatomy.png)
 
 
+
 # How to win
 
-The game ends at the end of the last month (12). 
+### The game ends at the end of the last month (12). **The player with the most honey wins!**
 
-**The player with the most honey wins!**
-
-#### Do my bees count at the end of the game?
-
-No. It's just the honey you have (that is, your *profits*) and not the overall *valuation* of your beesness. 
 
 
 # How not to lose
 
-**If the garden runs out of flowers, everybody loses immediately.**
+### If the garden runs out of flowers, everybody loses *immediately*.
 
 To avoid this *beesaster*, you can decide all together to **give back** one or more of your beesness cards in order to replenish the garden. 
 
@@ -129,11 +121,14 @@ You don't all have to give back the same number or type of cards. For example, o
 Put the cards you are sacrificing onto their stack next to the bank and replant the garden with the corresponding number of flowers.
 
 
+
 # Sticky situations (FAQs)   
 
 1. **Can I sell bees?**
 
-	**No**. You are not allowed to make bees *redundant*, i.e. selling them back to the bank. You can however **trade bees with other players**: see if anyone is interested in your bees and negotiate a price.
+	**No**. You are not allowed to sell your bees back to the bank. You can however **trade bees with other players**: see if anyone is interested in your bees and negotiate a price.
+	
+	<!-- You cannot dismiss bees. You can only make them redundant if you're being attacked by a drone and don't have enough honey -->
 2. **Do my bees count at the end of the game?**
 
 	No. It's just the honey you have (that is, your *profits*) and not the overall *valuation* of your beesness. 
