@@ -60,10 +60,11 @@ There are two ways to decide this:
 	
 	> For example: you have 2 workers, 1 drone and 1 queen. You could use your queen to buy an extra drone at half price. Then use your 2 workers to pick 2 flowers (1 flower each) and use your drones to steal up to 6 honey from other beesnesses (n any combination).
 
+<!-- -->
 
-## At the end of a round
+## At the end of a round
 
-## When all players have executed their *beesness plans*, the bank opens the **stalk exchange** and you have 1 minute to trade your flowers (as many as you want) for honey. Then you **replant the garden** and move to the next round.
+### When all players have executed their *beesness plans*, the bank opens the **stalk exchange** and you have 1 minute to trade your flowers (as many as you want) for honey. Then you **replant the garden** and move to the next round.
 
 1. **Trade flowers on the stalk exchange**!
 
@@ -86,14 +87,14 @@ There are two ways to decide this:
 	Replant **one flower per player**. Then **roll the die** and replant as many flowers as the die says. :game_die:
 
 	> For example: if there are 4 players, add 4 flowers to the *garden*. Then roll the die: it's a 2, so you add another 2 flowers.
-3. Move the month marker to the next space on the calendar to keep track of the rounds.
+3. Move the die to the next space on the calendar to keep track of the rounds.
 
 # Meet the bees
 
 Type | Price <sup>honey	| Skills
 ---- | ----------------	| ------
 **Worker** bee <br><br>![](assets/worker-bee.png) | **6** | It can **take 1 flower per month** from the garden. At the end of each round, you can trade flowers for honey. 
-**Drone** bee <br><br>![](assets/drone-bee.png) | **12** | It can **take up to 3 honey per month** from other beesnesses (in different combinations, eg: 3 honey from 1 beesness, 1 honey from 3 different beesnesses, 2 from 1 beesness and 1 from another, etc.)
+**Drone** bee <br><br>![](assets/drone-bee.png) | **12** | It can **take up to 3 honey per month** from other beesnesses (in any combination, eg: 3 honey from 1 beesness, 1 honey from 3 different beesnesses, 2 from 1 beesness and 1 from another, etc.)
 **Queen** bee <br><br>![](assets/queen.png) | **18** | It can you can **buy other beesness cards at half their normal price**. 
 
 ### Anatomy of a beesness card
@@ -122,7 +123,7 @@ Put the cards you are sacrificing onto their stack next to the bank and replant 
 
 
 
-# Sticky situations (FAQs)   
+# Sticky situations <sup>FAQs</sup>   
 
 1. **Can I sell bees?**
 
