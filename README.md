@@ -40,26 +40,12 @@ Will you manage to maximise your honey profits while avoiding *drone strikes* an
 
 **Rotate the starting player**. If you started this round, the player to your left will start the next.
 
-<!-- Any 1st player token/meeple? -->
-
-
-<!--
-## Who starts the round?
-
-There are two ways to decide this:
-
-1. By **bidding honey**, a.k.a. *beedding*. The highest *beedder* pays the bank and gets the right to execute their *beesness plan* before all other players.
-	
-	If you wish, you can *beed* to start at the beginning of every round.
-2. If nobody wants to *beed*, then you will **rotate the starting player**. If you started this round, the player to your left will start the next.
--->
-
 
 ## Phase 1. Your turn
 
-### At the beginning of your turn you can **buy beesness cards** to grow your beesness. Then you can use your cards to **execute your beesness plan**.
+### At the beginning of your turn you can **buy beesness cards** (a) to grow your beesness. Then you can use your cards to **execute your beesness plan** (b).
 
-(a) **Buy beesness cards**!
+#### (a) **Buy beesness cards!**
 
 If you have enough honey and want to expand your beesness, you *can* buy one or more beesness cards. 
 	
@@ -67,22 +53,20 @@ Pay the bank the price for each card in honey and add the card(s) to your beesne
 	
 You keep the cards throughout the game and can re-use them all at every round.
 
-(b) **Execute your beesness plan**!  
+#### (b) **Execute your beesness plan!**  
 
 Every beesness card has a skill. Use as many of your cards as you like. 
 
 You can use new bees immediately, there's no need to wait for the next round.
 	
-	> For example: you have 2 workers, 1 drone and 1 queen. In Phase 1 a) You could use your queen to buy an extra drone at half price. b) Then use your 2 workers to pick 2 flowers (1 flower each) and use your drones to steal up to 6 honey from other beesnesses.
-	
-<!-- This makes the queen's function clearer that it's implemented in the buying phase only-->
+> For example: you have 2 workers, 1 drone and 1 queen. In Phase 1 a) You could use your queen to buy an extra drone at half price. b) Then use your 2 workers to pick 2 flowers (1 flower each) and use your drones to steal up to 6 honey from other beesnesses.
 
 
-## Phase 2. End of a round
+## Phase 2. End of the round
 
-### When all players have executed their *beesness plans*, the bank opens the **stalk exchange** and you have 1 minute to trade your flowers (as many as you want) for honey. Then you **replant the garden** and move to the next round.
+### When all players have executed their *beesness plans*, the bank opens the **stalk exchange** and you have 1 minute to trade your flowers (as many as you want) for honey (a). Then you **replant the garden** (b) and move to the next round (c).
 
-(a) **Trade flowers on the stalk exchange**!
+#### (a) **Trade flowers on the stalk exchange!**
 
 You have 1 minute to decide how many of your flowers to put on the stalk exchange. Everybody does this at the same time.
 	
@@ -94,17 +78,17 @@ Check the **price chart** to determine the **price of one flower**.
  
 You get paid in honey, from the bank, for the flowers you are trading. 
 	
-	> For example: if you are trading 2 flowers and their individual price is 3 honey, you get 6 honey from the bank.
+> For example: if you are trading 2 flowers and their individual price is 3 honey, you get 6 honey from the bank.
 
 Your flowers are now sold. Discard them and take care not to place them in the common garden.
 
-(b) **Replant the garden!**
+#### (b) **Replant the garden!**
 
-   Replant **one flower per player**. Then **roll the die** and replant as many flowers as the die says. :game_die:
+Replant **one flower per player**. Then **roll the die** and replant as many flowers as the die says. :game_die:
 
-	> For example: if there are 4 players, add 4 flowers to the *garden*. Then roll the die: it's a 2, so you add another 2 flowers.
+> For example: if there are 4 players, add 4 flowers to the *garden*. Then roll the die: it's a 2, so you add another 2 flowers.
 
-(c) Move the die to the next space on the **calendar** to keep track of the rounds.
+#### (c) Move the die to the next space on the **calendar** to keep track of the rounds.
 
 
 
@@ -152,8 +136,6 @@ Everyone grabs one flower token and decides to either secretly put in their hand
 	**No**. You are not allowed to sell your bees back to the bank. You can however **trade bees with other players**: see if anyone is interested in your bees and negotiate a price.
 	
 	<!-- You cannot dismiss bees. You can only make them redundant if you're being attacked by a drone and don't have enough honey -->
-	
-	<!-- I didn't know this rule? is it new? it changes the game somewhat -->
 2. **Do my bees count at the end of the game?**
 
 	**No**. It's just the honey you have (that is, your *profits*) and not the overall *valuation* of your beesness. 
