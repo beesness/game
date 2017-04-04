@@ -2,17 +2,17 @@
 
 ![](assets/bees.png)
 
-**Beesness** is a competitive / cooperative game for 2+ players that simulates a *capitalist market economy*. 
+### **Beesness** is a competitive / cooperative game for 2+ players that simulates a *capitalist market economy*. 
 
-As a player you control a *beesness*. These peculiar bees have learned how to do business from us humans: they can *trade* flowers for honey and honey for other bees, they can *extort* honey from other beesnesses and even employ *cheap labour*. 
+A *beesness* is a business for bees. 
 
-<!-- I think although cool, calling it beesness vs player throughout the manual can be confusing-->
+Not your usual bees. In this game, bees learned how to do business from us humans: they can *trade* flowers for honey and honey for more bees, they can *extort* honey from other beesnesses and even employ *cheap labour*. 
 
-# Goal of the game
+**You** play as the director of one beesness. You **compete** against other players over resources (flowers) and profits (honey). 
 
-**To win** you must end the year with **more honey** than any other beesness. This is the **competitive** part.
+**To win** your beesness must end the game with **more honey** than any other beesness. 
 
-Every beesness operates in the **garden of Commons**. If all flowers are taken from the garden, at any point during the game, **everybody loses** immediately. To avoid this tragedy, you can **cooperate** with the other beesnesses to replant flowers.
+Your beesness operates in the **garden of Commons**. If all flowers are taken from the garden, at any point during the game, **everybody loses** immediately! To avoid this tragedy, you can **cooperate** with the other players to replant flowers.
 
 Will you manage to maximise your honey profits while avoiding *drone strikes* and a collective *beesaster*?
 
