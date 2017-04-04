@@ -6,11 +6,11 @@
 
 A *beesness* is a business for bees. 
 
-Not your usual bees. In this game, bees learned how to do business from us humans: they can *trade* flowers for honey and honey for more bees, they can *extort* honey from other beesnesses and even employ *cheap labour*. 
+Not your usual bees. In this game, bees have learned how to do business from us humans: they can *trade* flowers for honey and honey for more bees, they can *extort* honey from other beesnesses and even employ *cheap labour*. 
 
-**You** play as the director of one beesness. You **compete** against other players over resources (flowers) and profits (honey). 
+**You** play the director of one beesness. You **compete** against other players over flowers (resources) and honey (money). 
 
-**To win** your beesness must end the game with **more honey** than any other beesness. 
+**To win**, your beesness must end the game with **more honey** than any other beesness. 
 
 Your beesness operates in the **garden of Commons**. If all flowers are taken from the garden, at any point during the game, **everybody loses** immediately! To avoid this tragedy, you can **cooperate** with the other players to replant flowers.
 
@@ -41,7 +41,7 @@ Will you manage to maximise your honey profits while avoiding *drone strikes* an
 **Rotate the starting player**. If you started this round, the player to your left will start the next.
 
 
-## Phase 1. Your turn
+## Phase 1 - **Your turn**
 
 ### At the beginning of your turn you can **buy beesness cards** (a) to grow your beesness. Then you can use your cards to **execute your beesness plan** (b).
 
@@ -62,9 +62,9 @@ You can use new bees immediately, there's no need to wait for the next round.
 > For example: you have 2 workers, 1 drone and 1 queen. In Phase 1 a) You could use your queen to buy an extra drone at half price. b) Then use your 2 workers to pick 2 flowers (1 flower each) and use your drones to steal up to 6 honey from other beesnesses.
 
 
-## Phase 2. End of the round
+## Phase 2 - **End of the round**
 
-### When all players have executed their *beesness plans*, the bank opens the **stalk exchange** and you have 1 minute to trade your flowers (as many as you want) for honey (a). Then you **replant the garden** (b) and move to the next round (c).
+### When all players have executed their *beesness plans*, the bank opens the **stalk exchange** and you have 1 minute to trade your flowers for honey (a). Then you **replant the garden** (b) and move to the next round (c).
 
 #### (a) **Trade flowers on the stalk exchange!**
 
