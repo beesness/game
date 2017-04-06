@@ -25,18 +25,24 @@ Will you manage to maximise your honey profits while avoiding *drone strikes* an
 1. Place the **beesness cards** `1` face up, stacked by bee type.
 2. Stack all the **honey** `2` in two piles. That will be the **bank**. 
 
-	Each player starts with **12 honey** plus a **roll of the die** `5`. This could bring your starting capital to 18 honey! :game_die:
+	Each player takes **12 honey** to start with and then **rolls the die** `5` to get some extra honey. This could bring your starting capital to 18 honey! :game_die:
 3. How many of you are playing? Take the **price chart** `3` for the current number of players and put it next to the bank. 
-4. The **calendar** cards `4` track the rounds. Place them next to the price chart and put the die over the first month (1).
-5. The *garden of Commons* `6` grows at the centre of the table. *Plant* **6 flower tokens** for each player. It doesn't matter which colour flowers are.
+4. The **calendar** cards `4` help you keep track of the rounds. Place them next to the price chart. 
+5. Put the die `5` over the first month.
+6. The **garden of Commons** `6` grows at the centre of the table. *Plant* **6 flower tokens** for each player. 
 
-	> For example: if there are 4 players, *plant* 24 flowers. 
+	> For example: if there are 4 players, *plant* 24 flowers.  
+	
+	Flower tokens could be anything (beads, beens, chocolate chips, wood discs etc.) and it doesn't matter which colour they are.
+7. Keep the rest of the flowers aside in the **unplanted flowers pile** `7`.
+
+You are now ready to play!
 
 
 
 # How to *beehave* <sup>gameplay</sup> 
 
-### Players take turns, going *clockwise* :alarm_clock: around the table.
+### Players take turns, going *clockwise* around the table. :alarm_clock: 
 
 **Rotate the starting player**. If you started this round, the player to your left will start the next.
 
@@ -49,9 +55,9 @@ Will you manage to maximise your honey profits while avoiding *drone strikes* an
 
 If you have enough honey and want to expand your beesness, you *can* buy one or more beesness cards. 
 	
-Pay the bank the price for each card in honey and add the card(s) to your beesness. If you have a queen you pay half the bank price for each card. 
+Pay the bank the price for each card in honey and add the card(s) to your beesness. If you have a queen you can buy cards at half price. 
 	
-You keep the cards throughout the game and can re-use them all at every round.
+You keep the cards you bought throughout the game and can re-use them all at every round.
 
 #### (b) **Execute your beesness plan!**  
 
@@ -59,12 +65,12 @@ Every beesness card has a skill. Use as many of your cards as you like.
 
 You can use new bees immediately, there's no need to wait for the next round.
 	
-> For example: you have 2 workers, 1 drone and 1 queen. In Phase 1 a) You could use your queen to buy an extra drone at half price. b) Then use your 2 workers to pick 2 flowers (1 flower each) and use your drones to steal up to 6 honey from other beesnesses.
+> For example: you have 2 workers, 1 drone and 1 queen.  You could use your queen to buy an extra drone at half price. Then use your 2 workers to pick 2 flowers (1 flower each) and steal up to 6 honey from other beesnesses with your drones.
 
 
 ## Phase 2 - **End of the round**
 
-### When all players have executed their *beesness plans*, the bank opens the **stalk exchange** and you have 1 minute to trade your flowers for honey (a). Then you **replant the garden** (b) and move to the next round (c).
+### When all players have executed their *beesness plans*, the bank opens the **stalk exchange** and you have 1 minute to trade your flowers for honey (a). Then you will **replant the garden** (b) and move to the next round (c).
 
 #### (a) **Trade flowers on the stalk exchange!**
 
@@ -80,13 +86,31 @@ You get paid in honey, from the bank, for the flowers you are trading.
 	
 > For example: if you are trading 2 flowers and their individual price is 3 honey, you get 6 honey from the bank.
 
-Your flowers are now sold. Discard them and take care not to place them in the common garden.
+Your flowers are now sold. Put them back onto the *unplanted flowers pile*.
 
 #### (b) **Replant the garden!**
 
-Replant **one flower per player**. Then **roll the die** and replant as many flowers as the die says. :game_die:
+Count the flowers left in the *garden of Commons*. There are two scenarios:
 
-> For example: if there are 4 players, add 4 flowers to the *garden*. Then roll the die: it's a 2, so you add another 2 flowers.
+1. **Beesness as usual**
+
+	If there are **more flowers than players**, *replant* **one flower per player**: take flowers from the *pile of unplanted flowers* and add them to the *garden*.
+
+	> For example: if there are 4 players and 6 flowers left, add 4 flowers from the *pile of unplanted flowers* to the *garden*..
+* **Beesaster**
+
+	If the **flowers left are equal or less than the players**, the game enters *beesaster mode*.
+	
+	Remember, if the garden runs out of flowers, at any point during the game, everybody loses immediately. To avoid this, every player decides if they are **willing to donate any of their bees** in exchange for new flowers. 
+	
+	Each beesness card can get you 1 flower. 
+	
+	Reveal your choice at the same time as everyone else, using your hand in a rock-paper-scissors style: closed fist means you are unwilling to donate bees, 1 means willing to donate 1, 2 means 2 etc. 
+	
+	* If everyone is willing to **donate at least one bee**, then you can replant as many flowers as the number of donated bees. Put the cards you are donating onto their stack next to the bank, and add new flowers to the garden. 
+	
+	* Otherwise, no flowers are replanted this month.
+
 
 #### (c) Move the die to the next space on the **calendar** to keep track of the rounds.
 
@@ -116,18 +140,18 @@ Type | Price | Skills
 # How not to lose
 
 ### If the garden runs out of flowers, at any point during the game, everybody loses *immediately*.
-
-To avoid this *beesaster*, you can decide all together to **donate** one or more of your beesness cards in order to replenish the garden. 
-
+	
+To avoid this *beesaster*, you can decide all together to **donate** some of your bees in exchange for new flowers. 
+	
 Each beesness card can get you 1 flower. 
+	
+Reveal your choice at the same time as everyone else, using your hand in a rock-paper-scissors style: closed fist means you are unwilling to donate bees, 1 means willing to donate 1, 2 means 2 etc. 
+	
+* If everyone is willing to **donate at least one bee**, then you can replant as many flowers as the number of donated bees. Put the cards you are donating onto their stack next to the bank, and add new flowers to the garden. 
+	
+* Otherwise, no flowers are replanted this round.
 
-You don't all have to give back the same number of cards. For example, one player may decide to give back 1 bee, and another player 3 bees. Discuss and try to reach a consensus. 
 
-Put the cards you are donating onto their stack next to the bank and replant the garden with the corresponding number of flowers.
-
-<!-- It's not clear to me when this should happen, I think maybe you need to add a checkpoint during the phases. For example if in the phase 2 (b) replanting there are no flowers in the garden then a consensus has to be made before replanting. More interestingly it could be made into a similar mechanic as the market.
-
-Everyone grabs one flower token and decides to either secretly put in their hand (I agree to donate a bee) or not (I don't agree). So the incentive is to not donate your bee but if everyone is selfish GAME OVER-->
 
 # Sticky situations <sup>FAQs</sup>   
 
