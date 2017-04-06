@@ -97,7 +97,7 @@ Count the flowers left in the *garden of Commons*. There are two scenarios:
 	If there are **more flowers than players**, *replant* **one flower per player**: take flowers from the *pile of unplanted flowers* and add them to the *garden*.
 
 	> For example: if there are 4 players and 6 flowers left, add 4 flowers from the *pile of unplanted flowers* to the *garden*..
-* **Beesaster**
+2. **Beesaster**
 
 	If the **flowers left are equal or less than the players**, the game enters *beesaster mode*.
 	
