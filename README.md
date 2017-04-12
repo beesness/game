@@ -49,9 +49,9 @@ You are now ready to play!
 
 ## Phase 1 - **Your turn**
 
-### At the beginning of your turn you can **buy beesness cards** (a) to grow your beesness. Then you can use your cards to **execute your beesness plan** (b).
+### At the beginning of your turn you can **buy beesness cards** (1a) to grow your beesness. Then you can use your cards to **execute your beesness plan** (1b).
 
-#### (a) **Buy beesness cards!**
+#### (1a) **Buy beesness cards!**
 
 If you have enough honey and want to expand your beesness, you *can* buy one or more beesness cards. 
 	
@@ -59,7 +59,7 @@ Pay the bank the price for each card in honey and add the card(s) to your beesne
 	
 You keep the cards you bought throughout the game and can re-use them all at every round.
 
-#### (b) **Execute your beesness plan!**  
+#### (1b) **Execute your beesness plan!**  
 
 Every beesness card has a skill. Use as many of your cards as you like. 
 
@@ -70,9 +70,9 @@ You can use new bees immediately, there's no need to wait for the next round.
 
 ## Phase 2 - **End of the round**
 
-### When all players have executed their *beesness plans*, the bank opens the **stalk exchange** and you have 1 minute to trade your flowers for honey (a). Then you will **replant the garden** (b) and move to the next round (c).
+### When all players have executed their *beesness plans*, the bank opens the **stalk exchange** and you have 1 minute to trade your flowers for honey (2a). Then you will **replant the garden** (2b) and move to the next round (2c).
 
-#### (a) **Trade flowers on the stalk exchange!**
+#### (2a) **Trade flowers on the stalk exchange!**
 
 You have 1 minute to decide how many of your flowers to put on the stalk exchange. Everybody does this at the same time.
 	
@@ -88,7 +88,7 @@ You get paid in honey, from the bank, for the flowers you are trading.
 
 Your flowers are now sold. Put them back onto the *unplanted flowers pile*.
 
-#### (b) **Replant the garden!**
+#### (2b) **Replant the garden!**
 
 Count the flowers left in the *garden of Commons*. There are two scenarios:
 
@@ -96,7 +96,7 @@ Count the flowers left in the *garden of Commons*. There are two scenarios:
 
 	If there are **more flowers than players**, *replant* **one flower per player**: take flowers from the *pile of unplanted flowers* and add them to the *garden*.
 
-	> For example: if there are 4 players and 6 flowers left, add 4 flowers from the *pile of unplanted flowers* to the *garden*..
+	> For example: if there are 4 players and 6 flowers left, add 4 flowers from the *pile of unplanted flowers* to the *garden*.
 * **Beesaster**
 
 	If the **flowers left are equal or less than the players**, the game enters *beesaster mode*.
@@ -111,8 +111,7 @@ Count the flowers left in the *garden of Commons*. There are two scenarios:
 	
 	* Otherwise, no flowers are replanted this month.
 
-
-#### (c) Move the die to the next space on the **calendar** to keep track of the rounds.
+#### (2c) Move the die to the next space on the **calendar** to keep track of the rounds.
 
 
 
