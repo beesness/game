@@ -27,8 +27,8 @@ Will you manage to maximise your honey profits while avoiding *drone strikes* an
 
 	Each player takes **9 honey** to start with and then **rolls the die twice** `5` to get some extra honey. This could bring your starting capital to 21 honey if you roll a double 6! :game_die: :game_die:
 3. How many of you are playing? Take the **price chart** `3` for the current number of players and put it next to the bank. 
-4. The **calendar** cards `4` help you keep track of the rounds. Place them next to the price chart. 
-5. Put the die `5` over the first month.
+4. The **calendar** cards `4` help you keep track of the rounds. Place them next to the price chart. Decide if you want play a **short game** (6 rounds) or a **long game** (12 rounds). 
+5. Put the **die** `5` over the first month.
 6. The **garden of Commons** `6` grows at the centre of the table. *Plant* **6 flower tokens** for each player. 
 
 	> For example: if there are 4 players, *plant* 24 flowers.  
@@ -109,7 +109,7 @@ Count the flowers left in the *garden of Commons*. There are two scenarios:
 	
 	* If everyone is willing to **donate at least one bee**, then you can replant as many flowers as the number of donated bees. Put the cards you are donating onto their stack next to the bank, and add new flowers to the garden. 
 	
-	* Otherwise, no flowers are replanted this month.
+	* Otherwise, no flowers are replanted this round.
 
 #### (2c) Move the die to the next space on the **calendar** to keep track of the rounds.
 
@@ -119,8 +119,8 @@ Count the flowers left in the *garden of Commons*. There are two scenarios:
 
 Type | Price | Skills
 ---- | ----- | ------
-**Worker** <br><br>![](assets/worker-bee.png) | **6** honey | **Pick 1 flower per month** from the garden. 
-**Drone** <br><br>![](assets/drone-bee.png) | **12** honey | **Steal up to 3 honey per month** from other beesnesses in any combination, eg: 3 honey from 1 beesness, 1 honey from 3 different beesnesses, 2 from 1 beesness and 1 from another, etc.
+**Worker** <br><br>![](assets/worker-bee.png) | **6** honey | **Pick 1 flower per turn** from the garden. 
+**Drone** <br><br>![](assets/drone-bee.png) | **12** honey | **Steal up to 3 honey per turn** from other beesnesses in any combination, eg: 3 honey from 1 beesness, 1 honey from 3 different beesnesses, 2 from 1 beesness and 1 from another, etc.
 **Queen** <br><br>![](assets/queen.png) | **18** honey | Buy other beesness cards at **half their normal price**. <br> If you buy *2 queens* you can get bees at 1/3 of their normal price.
 
 
@@ -132,7 +132,9 @@ Type | Price | Skills
 
 # How to win
 
-### At the end of the last month (12), **the player with the most honey wins!**
+### At the end of the last round, **the player with the most honey wins!**
+
+If you are playing a **short game** the last round will be month 6. For **long games** it will be month 12. 
 
 
 
