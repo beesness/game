@@ -121,7 +121,7 @@ Type | Price | Skills
 ---- | ----- | ------
 **Worker** <br><br>![](assets/worker-bee.png) | **6** honey | **Pick 1 flower per month** from the garden. 
 **Drone** <br><br>![](assets/drone-bee.png) | **12** honey | **Steal up to 3 honey per month** from other beesnesses in any combination, eg: 3 honey from 1 beesness, 1 honey from 3 different beesnesses, 2 from 1 beesness and 1 from another, etc.
-**Queen** <br><br>![](assets/queen.png) | **18** honey | Buy other beesness cards at **half their normal price**. 
+**Queen** <br><br>![](assets/queen.png) | **18** honey | Buy other beesness cards at **half their normal price**. <br> If you buy *2 queens* you can get bees at 1/3 of their normal price.
 
 
 ## Anatomy of a beesness card
@@ -174,7 +174,9 @@ Reveal your choice at the same time as everyone else, using your hand in a rock-
 6. **Can I lend honey to other players?** 
 
 	Yas. As long as you trust them to pay their debt back...
+7. **What happens if I buy 2 queens?** 
 
+	You can get bees at 1/3 of their normal price.
 
 
 ## License
