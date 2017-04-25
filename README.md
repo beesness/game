@@ -171,7 +171,9 @@ Reveal your choice at the same time as everyone else, using your hand in a rock-
 5. **Can I use a drone and buy more beesness cards with the loot?**
 
 	Not during the same turn. You'll have to wait your next turn to invest your loot into new beesness cards.
+6. **Can I lend honey to other players?** 
 
+	Yas. As long as you trust them to pay their debt back...
 
 
 
