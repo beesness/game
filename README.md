@@ -89,7 +89,15 @@ Reveal your choice at the same time as everyone else using your hand: *closed fi
 
 You have 1 minute to decide how many of your flowers to put on the stalk exchange. Everybody does this at the same time.
 	
-You could get between 1 and 3 honey for each flower you trade. Their price will depend on how many flowers are traded on the stalk exchange by all players. The more flowers, the less they are worth (a.k.a. [*supply&demand*](https://en.wikipedia.org/wiki/Supply_and_demand)).
+You could get between 1 and 6 honey for each flower you trade. Their price will depend on how many flowers are traded on the stalk exchange by all players. The more flowers, the less they are worth (a.k.a. [*supply&demand*](https://en.wikipedia.org/wiki/Supply_and_demand)).
+
+Total flowers | Price per flower
+------------- | ----------------
+< P <br>P = number of players | 6
+P ... 2P - 1 | 5
+2P ... 3P - 1 | 4
+3P ... 4P - 1 | 3
+4P + | 2
 	
 Put the flowers you want to trade (from none to all) in your hand. Without revealing them, place your closed fist at the centre of the table. When everyone is ready, open your hands to show how many flowers you are trading.
 
