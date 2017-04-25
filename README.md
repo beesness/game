@@ -25,7 +25,7 @@ Will you manage to maximise your honey profits while avoiding *drone strikes* an
 1. Place the **beesness cards** `1` face up, stacked by bee type.
 2. Stack all the **honey** `2` in two piles. That will be the **bank**. 
 
-	Each player takes **12 honey** to start with and then **rolls the die** `5` to get some extra honey. This could bring your starting capital to 18 honey! :game_die:
+	Each player takes **9 honey** to start with and then **rolls the die twice** `5` to get some extra honey. This could bring your starting capital to 21 honey if you roll a double 6! :game_die: :game_die:
 3. How many of you are playing? Take the **price chart** `3` for the current number of players and put it next to the bank. 
 4. The **calendar** cards `4` help you keep track of the rounds. Place them next to the price chart. 
 5. Put the die `5` over the first month.
