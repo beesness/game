@@ -49,7 +49,7 @@ You are now ready to play!
 
 ## Phase 1 - **Your turn**
 
-### At the beginning of your turn you can **buy beesness cards** (1a) to grow your beesness. Then you can use your cards to **execute your beesness plan** (1b).
+### At the beginning of your turn you can **buy beesness cards** (1a) to grow your beesness. Then you can use your cards to **execute your beesness plan** (1b). If flowers are running low, you can also trigger a **beesaster referendum** (1c).
 
 #### (1a) **Buy beesness cards!**
 
@@ -66,6 +66,19 @@ Every beesness card has a skill. Use as many of your cards as you like.
 You can use new bees immediately, there's no need to wait for the next round.
 	
 > For example: you have 2 workers, 1 drone and 1 queen.  You could use your queen to buy an extra drone at half price. Then use your 2 workers to pick 2 flowers (1 flower each) and steal up to 6 honey from other beesnesses with your drones.
+
+#### (1c) **Trigger a beesaster referendum!** 
+
+Remember, should the garden run out of flowers at any point during the game, then everybody would lose immediately. Game over! 
+
+To avoid this *beesaster* (and to prevent other players from killing the game by taking the last flower) you can **call a vote to replenish the garden** during your turn.
+
+`Are you willing to donate one of your bees in exchange for 2 new flowers?` 
+
+Reveal your choice at the same time as everyone else using your hand: *closed fist* :facepunch: means you are unwilling to donate bees (voting **No**), *thumb up* :thumbsup: means you are voting **Yes**.
+
+* If **at least half of players vote Yes** then *every* player will discard one of their beesness cards and add 2 new flowers to the garden.
+* Otherwise, no flowers are replanted this turn.
 
 
 ## Phase 2 - **End of the round**
@@ -90,26 +103,9 @@ Your flowers are now sold. Put them back onto the *unplanted flowers pile*.
 
 #### (2b) **Replant the garden!**
 
-Count the flowers left in the *garden of Commons*. There are two scenarios:
+Replant **one flower per player**: take flowers from the *pile of unplanted flowers* and add them to the *garden*.
 
-1. **Beesness as usual**
-
-	If there are **more flowers than players**, *replant* **one flower per player**: take flowers from the *pile of unplanted flowers* and add them to the *garden*.
-
-	> For example: if there are 4 players and 6 flowers left, add 4 flowers from the *pile of unplanted flowers* to the *garden*.
-2. **Beesaster**
-
-	If the **flowers left are equal or less than the players**, the game enters *beesaster mode*.
-	
-	Remember, if the garden runs out of flowers, at any point during the game, everybody loses immediately. To avoid this, every player decides if they are **willing to donate any of their bees** in exchange for new flowers. 
-	
-	Each beesness card can get you 1 flower. 
-	
-	Reveal your choice at the same time as everyone else, using your hand in a rock-paper-scissors style: closed fist means you are unwilling to donate bees, 1 means willing to donate 1, 2 means 2 etc. 
-	
-	* If everyone is willing to **donate at least one bee**, then you can replant as many flowers as the number of donated bees. Put the cards you are donating onto their stack next to the bank, and add new flowers to the garden. 
-	
-	* Otherwise, no flowers are replanted this round.
+> For example: if there are 4 players, add 4 flowers from the *pile of unplanted flowers* to the *garden*.	
 
 #### (2c) Move the die to the next space on the **calendar** to keep track of the rounds.
 
@@ -141,16 +137,15 @@ If you are playing a **short game** the last round will be month 6. For **long g
 # How not to lose
 
 ### If the garden runs out of flowers, at any point during the game, everybody loses *immediately*.
-	
-To avoid this *beesaster*, you can decide all together to **donate** some of your bees in exchange for new flowers. 
-	
-Each beesness card can get you 1 flower. 
-	
-Reveal your choice at the same time as everyone else, using your hand in a rock-paper-scissors style: closed fist means you are unwilling to donate bees, 1 means willing to donate 1, 2 means 2 etc. 
-	
-* If everyone is willing to **donate at least one bee**, then you can replant as many flowers as the number of donated bees. Put the cards you are donating onto their stack next to the bank, and add new flowers to the garden. 
-	
-* Otherwise, no flowers are replanted this round.
+
+To avoid this *beesaster* (and to prevent other players from killing the game by taking the last flower) you can **call a vote to replenish the garden** during your turn.
+
+`Are you willing to donate one of your bees in exchange for 2 new flowers?` 
+
+Reveal your choice at the same time as everyone else using your hand: *closed fist* :facepunch: means you are unwilling to donate bees (voting **No**), *thumb up* :thumbsup: means you are voting **Yes**.
+
+* If **at least half of players vote Yes** then *every* player will discard one of their beesness cards and add 2 new flowers to the garden.
+* Otherwise, no flowers are replanted this turn.
 
 
 
