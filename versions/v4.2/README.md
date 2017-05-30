@@ -28,7 +28,7 @@ Will you manage to maximise your honey profits while avoiding *drone strikes* an
 2. Stack all the **honey** `2` in two piles. That will be the **bank**. 
 
 	Each player starts with **6 honey** and can invest some (or all) of it in bees, before the game begins.
-3. The **garden of Commons** `3` grows at the centre of the table. *Plant* **6 flower tokens** for each player. Each player will be able to pick flowers of **only which colour**, so decide which one you want.
+3. The **garden of Commons** `3` grows at the centre of the table. *Plant* **6 flower tokens** for each player. Each player will be able to pick flowers of **only one colour**, so decide which one you want.
 
 	> For example: if there are 4 players, *plant* 24 flowers of 4 different colours. P1 will pick red flowers, P2 green, P3 blue and P4 yellow.  
 4. Keep the rest of the flowers aside in the **unplanted flowers pile** `4`.
@@ -61,7 +61,7 @@ Every beesness card has a skill. Use as many of your cards as you like.
 
 <!--You can use new bees immediately, there's no need to wait for the next round.-->
 	
-> For example: you have 2 workers, 1 drone and 1 queen.  You could pick 2 flowers (1 flower each) with your 2 workers, then try and steal some honey from another beesness with your drone, and put some of the loot in your savings with the queen.
+> For example: you have 2 workers, 1 drone and 1 queen.  You could pick 2 flowers (1 flower each) with your 2 workers, then try and steal some honey from another beesness with your drone, and put some of the loot in your *savings* with the queen.
 
 #### (1b) **Trigger a beesaster referendum!** 
 
@@ -115,11 +115,13 @@ You get paid in honey, from the bank, for the flowers you are trading.
 
 Your flowers are now sold. Put them back onto the *unplanted flowers pile*.
 
-#### (2b) **Buy beesness cards!**
+#### (2b) **Trade beesness cards!**
 
-If you have enough honey and want to expand your beesness, you *can* buy one or more beesness cards. 
+If you have enough honey and want to expand your beesness, **you can buy** one or more beesness cards. 
 	
 Pay the bank the price for each card in honey and add the card(s) to your beesness.
+
+**You can sell** your bees back to the bank at 1/3 of their price. You can also **trade bees with other players**: see if anyone is interested in your bees and negotiate a price.
 
 #### (2c) **Replant the garden!**
 
@@ -137,7 +139,7 @@ Type | Price | Action | Discard or keep?
 ---- | ----- | ------ | ----------------
 **Drone** <br><br>![](assets/drone-bee.png) | **3** honey | Roll the die and then **steal as much honey as the die says** from another beesness. | Discard
 **Worker** <br><br>![](assets/worker-bee.png) | **6** honey | **Pick 1 flower** from the garden. | Keep
-**Queen** <br><br>![](assets/queen.png) | **12** honey | Roll the die and then **save as much honey as the die says** up to a maximum of 12 honey. This means that drones won't be able to steal that honey, but also that you won't be able to use that honey to buy new bees (think of it as a *pension pot*). Place the saved honey on top of your Queen card. | Keep	
+**Queen** <br><br>![](assets/queen.png) | **12** honey | Roll the die and then **save as much honey as the die says up to a maximum of 12 honey**. This means that drones won't be able to steal that honey. Place the saved honey on top of your Queen card. | Keep	
 
 <!--
 ## Anatomy of a beesness card
@@ -169,24 +171,19 @@ To avoid this *beesaster* (and to prevent other players from killing the game by
 
 # Sticky situations <sup>FAQs</sup>   
 
-1. **Can I sell bees?**
-
-	**No**. You are not allowed to sell your bees back to the bank. You can however **trade bees with other players**: see if anyone is interested in your bees and negotiate a price.
-	
-	<!-- You cannot dismiss bees. You can only make them redundant if you're being attacked by a drone and don't have enough honey -->
-2. **Do my bees count at the end of the game?**
+1. **Do my bees count at the end of the game?**
 
 	**No**. It's just the honey you have (that is, your *profits*) and not the overall *valuation* of your beesness. 
-3. **Can I make alliances with other players?**
+2. **Can I make alliances with other players?**
 
 	Sure, why not? The terms of your trade agreements are up to you. 
-4. **What if I use my drone(s) against a beesness that has not enough honey?**
+3. **What if I use my drone(s) against a beesness that has not enough honey?**
 
-	You can only get as much honey as they have available.
-5. **Can I use a drone and buy more beesness cards with the loot?**
+	You can only get as much honey as they have available (you cannot steal the honey saved onto queens).
+4. **Can I use a drone and buy more beesness cards with the loot?**
 
 	Not during the same turn. You'll have to wait the end of the round to invest your loot into new beesness cards.
-6. **Can I lend honey to other players?** 
+5. **Can I lend honey to other players?** 
 
 	Yas. As long as you trust them to pay their debt back...
 
