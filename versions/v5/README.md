@@ -21,11 +21,11 @@ Federico has been suggesting to include **honey** bees for a while. So I did, an
 
 Name | Price | Skills (per turn)
 ---- | ----- | ------
-Flower bee | 3 | It can take 1 flower from the garden
-Honey bee | 3 | It can convert 1 flower into 2 honey (take 2 honey from the bank and discard the flower)
-Trader bee | 6 | It can trade 1 flower for honey, or viceversa at the current market price (see chart below)
-Drone bee | 6 | It can steal honey at the current market price (see chart below)
-Queen | 12 | It can generate one other bee (but not other queens) 
+Flower bee <br><br> ![](assets/flower.png) | 3 | It can take 1 flower from the garden
+Honey bee <br><br> ![](assets/honey.png) | 3 | It can convert 1 flower into 2 honey (take 2 honey from the bank and discard the flower)
+Trader bee <br><br> ![](assets/trader.png) | 6 | It can trade 1 flower for honey, or viceversa at the current market price (see chart below)
+Drone bee <br><br> ![](assets/drone.png) | 6 | It can steal honey at the current market price (see chart below)
+Queen <br><br> ![](assets/queen.png) | 12 | It can generate one other bee (but not other queens) 
 
 The trader bee sounds like a useful card, but how do you determine the market prices for flowers and honey (ideally in a way that doesn't require waiting for the end of the round)? 
 

@@ -26,7 +26,7 @@ This is a **work-in-progress** game. Below are different versions of the game we
 * [**v4**](versions/v4) is what we presented at [NowPlayThis 2017](http://nowplaythis.net/2017-events), where we had loads of fun with friends and friendly strangers. At the end of a 5-hours playtesting marathon that day v4.1 was born :hatching_chick:
 * [**v4.1**](versions/v4.1) features a *beesaster* referendum :thumbsup: :thumbsdown:
 * [**v4.2**](versions/v4.2) sports free-lance & full-time bees, + gambling! :game_die:
-* **v5** is still a cloudy idea :thought_balloon:
+* [**v5**](versions/v5) is still a cloudy idea :thought_balloon:
 * **v6** is like v4.x with colours :rainbow:
 * **v7** will feature a workers-owned cooperative :fist:
 
