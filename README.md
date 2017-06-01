@@ -20,7 +20,7 @@ Will you manage to maximise your honey profits while avoiding *drone strikes* an
 
 This is a **work-in-progress** game. Below are different versions of the game we're prototyping and playtesting:
 
-* **v1** was more of a playable theory than a game, back in 2015
+* [**v1**](versions/v1) was more of a playable theory than a game, back in 2015
 * **v2** doesn't actually exist, we skipped straight to v3
 * [**v3**](versions/v3) was v1 turned into something more playable
 * [**v4**](versions/v4) is what we presented at [NowPlayThis 2017](http://nowplaythis.net/2017-events), where we had loads of fun with friends and friendly strangers. At the end of a 5-hours playtesting marathon that day v4.1 was born :hatching_chick:
