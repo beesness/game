@@ -1,4 +1,4 @@
-# Beesness
+# Beesness v4.2
 
 ![](assets/bees.png)
 
