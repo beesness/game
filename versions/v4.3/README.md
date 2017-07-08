@@ -22,16 +22,16 @@ Will you manage to maximise your honey profits while avoiding *drone strikes* an
 
 ![](assets/setup.png)
 
-1. Make 3 stack of 6 **beesness cards** `1`, one for each bee type. That will be the *bee market*.
+1. Make 3 stacks of 6 **beesness cards** `1`, one stack for each bee type. That will be the *bee market*.
 
-	Each player takes **1 worker** from the workers pile.
+	Each player takes **1 worker** from the workers stack.
 2. Stack all the **honey** `2` in two piles. That will be the *bank*. 
 
 	Each player starts with **6 honey** and will be able invest some (or all) of it in bees, before the game begins.
 3. The **garden of Commons** `3` grows at the centre of the table. *Plant* **6 flower tokens** for each player. 
 4. Keep the rest of the flowers aside in the **unplanted flowers pile** `4`.
-5. The **calendar** card `5` helps you keep track of the rounds. Place it next to the price chart. Put a **round marker** over the first round.
-6. Put the flowers-honey **price chart** `6` next to the bank. 
+5. The **calendar** card `5` helps you keep track of the rounds. Place it next to the price chart. Put a **marker** over the first round.
+6. Put the *flowers market* **price chart** `6` next to the calendar. 
 
 You are now ready to play!
 
@@ -61,11 +61,12 @@ Play goes **clockwise** around the table. :alarm_clock:
 ### If you have enough honey and want to expand your beesness, **you can buy** one or more bees during this phase. 
 
 * You may buy one bee at a time. 
-* The player starting the next round takes the one bee s/he wants and declares `I want this {bee type} for {starting price}`. 
-	* If nobody else wants it, then s/he can go ahead and buy it. 
+* The *starting player* takes the one bee she wants and declares `I want this {bee type} for {starting price}`. 
+	* If nobody else wants it, then she can go ahead and buy it. 
 	* Otherwise an **auction** for that bee starts: players interested in that bee have to offer at least 1 honey more than the last offer. 
 * To buy a bee, pay the bank the price for it in honey and then add the card to your beesness. 
-* Once the bee is sold, the market moves on to the next bee, with the player to the left of the previous one getting to choose the bee s/he wants and potentially starting another auction. This continues clockwise until nobody wants to buy any more bees.   
+* Once the bee is sold, the market moves on to the next bee, with the player to the left of the *starting player* getting to choose the bee s/he wants and potentially starting another auction. 
+* This continues clockwise until nobody wants to buy any more bees.   
 
 **You can sell** your bees back to the bank at 1/3 of their initial price. 
 
