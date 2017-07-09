@@ -32,7 +32,7 @@ Will you manage to maximise your honey profits while avoiding *drone strikes* an
 
 	> For example: if there are 4 players, *plant* 24 flowers of 4 different colours. P1 will pick red flowers, P2 green, P3 blue and P4 yellow.  
 4. Keep the rest of the flowers aside in the **unplanted flowers pile** `4`.
-5. The **calendar** card `5` helps you keep track of the rounds. Place it next to the price chart. Put a **round marker** over the first round.
+5. The **calendar** card `5` helps you keep track of the rounds. Place it next to the bank. Put a **round marker** over the first round.
 6. How many of you are playing? Take the **price chart** `6` for the current number of players and put it next to the bank. 
 
 You are now ready to play!

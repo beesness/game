@@ -30,7 +30,7 @@ Will you manage to maximise your honey profits while avoiding *drone strikes* an
 	Each player starts with **6 honey** and will be able invest some (or all) of it in bees, before the game begins.
 3. The **garden of Commons** `3` grows at the centre of the table. *Plant* **6 flower tokens** for each player. 
 4. Keep the rest of the flowers aside in the **unplanted flowers pile** `4`.
-5. The **calendar** card `5` helps you keep track of the rounds. Place it next to the price chart. Put a **marker** over the first round.
+5. The **calendar** card `5` helps you keep track of the rounds. Place it next to the bank. Put a **marker** over the first round.
 6. Put the *flowers market* **price chart** `6` next to the calendar. 
 
 You are now ready to play!
@@ -58,15 +58,15 @@ Play goes **clockwise** around the table. :alarm_clock:
 
 ## Phase 1 - **Bees market**
 
-### If you have enough honey and want to expand your beesness, **you can buy** one or more bees during this phase. 
+### If you have enough honey and want to expand your beesness, **you can hire** one or more bees during this phase. 
 
-* You may buy one bee at a time. 
+* You may hire one bee at a time. 
 * The *starting player* takes the one bee she wants and declares `I want this {bee type} for {starting price}`. 
-	* If nobody else wants it, then she can go ahead and buy it. 
+	* If nobody else wants it, then she can go ahead and hire it. 
 	* Otherwise an **auction** for that bee starts: players interested in that bee have to offer at least 1 honey more than the last offer. 
-* To buy a bee, pay the bank the price for it in honey and then add the card to your beesness. 
+* To hire a bee, pay its price in honey to the bank and then add the card to your beesness. 
 * Once the bee is sold, the market moves on to the next bee, with the player to the left of the *starting player* getting to choose the bee s/he wants and potentially starting another auction. 
-* This continues clockwise until nobody wants to buy any more bees.   
+* This continues clockwise until nobody wants to hire any more bees.   
 
 **You can sell** your bees back to the bank at 1/3 of their initial price. 
 
@@ -87,7 +87,7 @@ Every beesness card has a skill. Use as many of your cards as you like.
 
 Remember, should the flowers run out at any point during the game, then everybody would lose immediately. Game over! 
 
-To avoid this *beesaster* (and to prevent other players from killing the game by taking the last few flowers) you can **call a vote to replenish the garden** during your turn.
+To avoid this *beesaster* (and to prevent other players from killing the game by taking the last flower) you can **call a vote to replenish the garden** during your turn.
 
 `Are you willing to discard one of your bees in exchange for 2 new flowers?` 
 
@@ -123,7 +123,7 @@ You get paid in honey, from the bank, for the flowers you are trading.
 
 Your flowers are now sold. Put them back onto the *unplanted flowers pile*.
 
-#### Move the die to the next space on the **calendar** to keep track of the rounds.
+#### Move the marker to the next space on the **calendar** to keep track of the rounds.
 
 
 
@@ -147,7 +147,7 @@ Type | Price | Action | Discard or keep?
 
 ### If flowers run out, at any point during the game, everybody loses *immediately*.
 
-To avoid this *beesaster* (and to prevent other players from killing the game by taking the last flowers) you can **call a vote to replenish the garden** during your turn.
+To avoid this *beesaster* (and to prevent other players from killing the game by taking the last flower) you can **call a vote to replenish the garden** during your turn.
 
 `Are you willing to discard one of your bees in exchange for 2 new flowers?` 
 
@@ -169,9 +169,9 @@ To avoid this *beesaster* (and to prevent other players from killing the game by
 3. **What if I use my drone(s) against a beesness that has not enough honey?**
 
 	You can only get as much honey as they have available (you cannot steal the honey saved onto queens).
-4. **Can I use a drone and buy more beesness cards with the loot?**
+4. **Can I use a drone and then hire more bees with the loot?**
 
-	Not during the same turn. You'll have to wait the end of the round to invest your loot into new beesness cards.
+	Not during the same turn. You'll have to wait the next *bees market* to invest your loot into new bees.
 5. **Can I lend honey to other players?** 
 
 	Yas. As long as you trust them to pay their debt back...
