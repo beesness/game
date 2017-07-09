@@ -67,27 +67,29 @@ Type | Price | Action | Discard or keep?
 **Queen** <br><br>![](assets/queen.png) | **9** honey | **Generate 1 bee** (either a worker or a drone) during your turn. | Keep
 
 
-## Phase 1 - **Bees market**
+## Phase 1 - *Bees market*
 
-### If you have enough honey and want to expand your beesness, **you can hire** one or more bees during this phase. 
+### If you have enough honey and want to expand your beesness, *you can hire* one or more bees during this phase. 
 
-1. Make sure the honey pot is topped up with **as much honey as there are flowers in the garden**. 
-2. You may hire one bee at a time. 
-3. The *starting player* takes the one bee she wants and declares `I want this {bee type} for {starting price}`. 
+Make sure the honey pot is topped up with **as much honey as there are flowers in the garden**. 
+
+1. You may hire one bee at a time. 
+2. The *starting player* takes the one bee she wants and declares `I want this {bee type} for {starting price}`. 
 	* If nobody else wants it, then she can go ahead and hire it. 
 	* Otherwise an **auction** for that bee starts: players interested in that bee have to offer at least 1 honey more than the last offer. 
-4. To **hire a bee**, pay its price in honey into the **honey pot** and then add the card to your beesness. 
-5. Once the bee is sold, the market moves on to the next bee, with the player to the left of the *starting player* getting to choose the bee s/he wants and potentially starting another auction. 
-6. This continues clockwise until nobody wants to hire any more bees.   
+3. To **hire a bee**, pay its price in honey into the **honey pot** and then add the card to your beesness. 
+4. Once the bee is sold, the market moves on to the next bee, with the player to the left of the *starting player* getting to choose the bee s/he wants and potentially starting another auction. 
+
+This continues clockwise until nobody wants to hire any more bees.   
 
 <!-- **You can sell** your bees back to the bank at 1/3 of their initial price. -->
 
-You can **trade bees with other players**: see if anyone is interested in your bee(s) and negotiate a price.
+You can also **trade bees with other players**: see if anyone is interested in your bee(s) and negotiate a price.
 
 
-## Phase 2 - **Your turn**
+## Phase 2 - *Your turn*
 
-### Use your cards to **execute your beesness plan** (2a). If flowers are running low, you can also trigger a **beesaster referendum** (2b) to replant the garden.
+### Use your cards to *execute your beesness plan* (2a). If flowers are running low, you can also trigger a *beesaster referendum* (2b) to replant the garden.
 
 #### (2a) **Execute your beesness plan!**  
 
@@ -113,7 +115,7 @@ Reveal your choice at the same time as everyone else using your hand: *closed fi
 * Otherwise, no flowers are replanted this turn.
 
 
-## Phase 3 - **Flowers market**
+## Phase 3 - *Flowers market*
 
 ### When all players have executed their *beesness plans*, the bank opens the *stalk exchange* and you have 1 minute to trade your flowers for honey. Then you will move to the next round.
 
