@@ -1,6 +1,14 @@
 # Beesness v8
 
-![](assets/bees.png)
+1. [Intro](#beesness-is-a-game-for-3-5-players-that-simulates-a-capitalist-market-economy)
+2. [Setup](#how-to-beegin-setup)
+3. [Gameplay](#how-to-beehave-gameplay)
+4. [How to win](#how-to-win)
+5. [How not to lose](#how-not-to-lose)
+6. [FAQs](#sticky-situations-faqs) 
+
+[![](assets/bees.png)](#meet-the-bees)
+
 
 ### **Beesness** is a game for 3-5 players that simulates a *capitalist market economy*. 
 
@@ -58,7 +66,7 @@ You will **rotate the starting player**. If you started this round, the player t
 Play goes **clockwise** around the table. :alarm_clock: 
 
 
-## Meet the bees
+### Meet the bees
 
 Type | Price | Action | Discard or keep?
 ---- | ----- | ------ | ----------------
