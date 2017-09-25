@@ -18,7 +18,7 @@ Will you manage to maximise your honey profits while avoiding *drone strikes* an
 
 ## Versions!
 
-This is a **work-in-progress** game. Below are different versions of the game we're prototyping and playtesting:
+This project is **work-in-progress**. Below are different versions of the game we're prototyping and playtesting:
 
 * [**v1**](versions/v1) was more of a playable theory than a game, back in 2015
 * **v2** doesn't actually exist, we skipped straight to v3
@@ -29,6 +29,9 @@ This is a **work-in-progress** game. Below are different versions of the game we
 * [**v5**](versions/v5) is still a cloudy idea :thought_balloon:
 * **v6** is like v4.x with colours :rainbow:
 * [**v7**](versions/v7) will feature a workers-owned cooperative :fist:
+* [**v8**](versions/v8) focuses on the market, with drones playing the *traders*
+* [**v9**](versions/v9) will be a cooperative game
+* [**v10**](versions/v10) is a fast-paced simultaneous-action game 
 
 ## License
 
