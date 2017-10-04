@@ -32,6 +32,7 @@ This project is **work-in-progress**. Below are different versions of the game w
 * [**v8**](versions/v8) focuses on the market, with drones playing the *traders*
 * [**v9**](versions/v9) will be a cooperative game
 * [**v10**](versions/v10) is a fast-paced simultaneous-action game 
+* [**v11**](versions/v11) aka **Imbeerialism**, the *beesness model* of the colonial past 
 
 ## License
 
