@@ -4,8 +4,7 @@
 2. [Setup](#how-to-beegin-setup)
 3. [Gameplay](#how-to-beehave-gameplay)
 4. [How to win](#how-to-win)
-5. [How not to lose](#how-not-to-lose)
-6. [FAQs](#sticky-situations-faqs) 
+5. [FAQs](#sticky-situations-faqs) 
 
 [![](assets/bees.png)](#2-bees)
 
