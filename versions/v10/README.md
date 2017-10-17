@@ -17,24 +17,22 @@ Not your usual bees. In this game, bees have learned how to do business from us 
 
 **You** play the director of one beesness in times of *scarcity*. You compete against other players over **bees** (labour), **flowers** (resources) and **honey** (money). 
 
-**To win**, your beesness must end the game with **more honey** than any other beesness. 
- 
-Your beesness operates in the `Garden of Commons`. If its flowers run out, at any point during the game, **everybody loses** immediately! You can avoid this tragedy by **calling a referendum** to replant flowers.
-
-Will you manage to maximise your honey profits while preventing a collective *beesaster*?
+**To win**, your beesness must end the game with **more honey** than any other beesness.
 
 
 # How to *beegin* <sup>setup</sup>
 
-These instructions are for 4 players: P1, P2, P3 and P4. If you play with 3 or 5 players, you will have to adjust the number of *flowers* and the amount of *honey* in the `Honeypot` (more on that below).
+These instructions are for 4 players: P1, P2, P3 and P4. 
 
-![](assets/setup.png)
+We're testing how to make this work for 3 and 5 players. Meanwhile, you can email your suggestions to matteo@beesness.games!
+
+<!-- ![](assets/setup.png) -->
 
 ### 1. Flowers
 
 Flowers are the *natural resources* you can extract and sell. 
 
-Plant **7 flower tokens** per player (28 in total in a 4-player game) in the `Garden of Commons` which grows at the centre of the table. 
+Plant **12 flower tokens** in the `Garden of Commons` which grows at the centre of the table. 
 
 Give **2 flower tokens** to each player.
 
@@ -50,9 +48,9 @@ Put the remaining 2W and 2D in the `Bee Market`.
 
 Type | Action | Full-time or freelance?
 ---- | ------ | ----------------
-**Worker** <br><br>![](assets/worker-bee.png) | **Pick flowers** from the garden. | Freelance. This means you use it for one job. After that, the bee goes to the `Bee Market`, where it can be hired by you or other players.
+**Worker** <br><br>![](assets/worker-bee.png) | **Pick flowers** from the garden up to the *last round*. Gamble on honey in the *last round* (more on that later). | Freelance. This means you use it for one job. After that, the bee goes to the `Bee Market`, where it can be hired by you or other players.
 **Drone** <br><br>![](assets/drone-bee.png) | **Sell flowers** for honey. | Freelance
-**Queen** <br><br>![](assets/queen.png) | **Hire bees** throughout the game. Gamble on honey on the last round. | Full-time.  This bee remains with you, it doesn't go to the `Bee Market` after a job.
+**Queen** <br><br>![](assets/queen.png) | **Hire bees** up to the *last round*. Cash in on other players' fortunes in the *last round*. | Full-time. This bee remains with you, it doesn't go to the `Bee Market` after a job.
 
 ### 3. Honey
 
@@ -62,23 +60,33 @@ Each player picks a colour token and places it on the `Honeycomb` at 6.
 
 That means your initial capital is **6 honey**. 
 
-### 4. Honeypot
+### 4. Stalk Exchange
 
-The `Honeypot` represents the *consumer market*. How much are *consumers* willing to spend at each round, ie how big is the `Honeypot`, will depend on two factors:
+When you play a drone, you can sell flowers for honey.
 
-1. Flowers left in the game (both those  in the garden and those picked by players) 
-2. Honey invested by players in hiring bees
+The more flowers are sold, the less their individual value (aka *supply&demand*).
 
-In a 4-player game, the `Honeypot` starts at 36. 
+Total flowers sold <br><sup>by all players | Honey per flower
+------------------ | ----------------
+1 | 18
+2 | 9
+3 | 6
+4 | 5
+5 | 4
+6 | 3
+7 - 13 | 2
+14 + | 1
 
-When dividing the `Honeypot`, always round up.
-
-### 5. Round tracker
+### 5. Rounds Tracker
 
 This helps you keep track of the rounds. Put a marker over the first round.
 
 There will be **9 rounds**.
- 
+
+### 6. Bees Wage Tracker
+
+When you play the queen, you can invest your honey in hiring bees. Their starting price grows by 1 honey every 2 rounds.
+
 
 # How to *beehave* <sup>gameplay</sup> 
 
@@ -88,13 +96,43 @@ Decide which card to play, place it **face-down** on the table and when everyone
 
 You will carry out the chosen bee actions in this order:
 
-1. Workers
+1. Queens
 2. Drones
-3. Queens
+3. Workers
 
 When there are 2+ players going for the same bee, **the player with the least honey goes first**.
 
-### 1. Workers
+### 1. Queens
+ 
+You can hire **3 bees** from the `Bee Market` if you're the only one playing the worker card. 
+	
+Subtract 1 bee for each other player that also played this card. 
+
+> For example, if 2 players play the queen, they can hire (up to) 2 bees each. Also, if all players play the queen, nobody will be able to hire any bees. 
+
+The **starting price** of every bee increments every 2 rounds, as indicated by the *Bees Wage Tracker*. Hiring bees becomes increasingly expensive as the game progresses.
+
+When 2+ players want the same bee, they will enter an **auction** for it. The player with the least honey can start the auction. Players interested in that bee have to offer at least 1 honey more than the last offer. You may *beed* for only 1 bee at a time.
+
+To **hire a bee**, subtract its price in honey from your counter on the `Honeycomb`.
+
+> For example, you currently hold 9 honey and you're hiding a bee for 3 honey. Your counter goes down to 6.
+
+### 2. Drones
+
+You can trade (some of) your flowers for honey.
+
+The flowers you trade will go back in the centre of the table, and the honey you gain from the trade will be added to your capital in the `Honeycomb`.
+
+If two or more players chose the drone card, then they will enter a **blind bid**. Put the flowers you want to trade in your hand. Without revealing them, place your closed fist at the centre of the table (even if you're not trading any flowers). When everyone is ready, open your hands to show how many flowers you are trading. Count the flowers everyone is trading, and pay players off according to the `Stalk Exchange`.
+
+> For example: you are selling 2 flowers and another player is selling 3. The total is 5 and according to the `Stalk Exchange` that means 4 honey per flower. So you get 8 honey and the other player 12. Move your counter on the `Honeycomb` 8 steps ahead and the other player's counter by 12 steps.
+	
+If you're the only one playing the drone card, then you get all the honey in the `Stalk Exchange` for just 1 flower! 
+
+Drones are free-lance, so after you used one put it in the `Bee Market`.
+
+### 3. Workers
 
 You can pick **3 flowers** if you're the only one playing the worker card. 
 	
@@ -104,69 +142,28 @@ Subtract 1 flower for each other player that also played this card.
 
 Workers are free-lance, so after you used one put it in the `Bee Market`. 
 
-### 2. Drones
-
-You can trade (some of) your flowers for honey from the `Honeypot`.
-
-The flowers you trade will be discarded, and the honey you gain from the trade will be added to your capital in the `Honeycomb`.
-
-If two or more players chose the drone card, then they will enter a **blind bid** to split the `Honeypot`. Put the flowers you want to trade in your hand. Without revealing them, place your closed fist at the centre of the table (even if you're not trading any flowers). When everyone is ready, open your hands to show how many flowers you are trading. Count the flowers everyone is trading, and divide the `Honeypot` accordingly. Always round the number up if the division is not a whole number.
-
-> For example: the Honeypot contains 30 honey and the total number of flowers traded is 3. Each flower will be worth 10 honey (30/3). Let's say you are trading 2 of those 3 flowers, so you get 20 honey from the `Honeypot`. Move your counter on the `Honeycomb` 20 steps ahead, the other trader's counter by 10 steps, and reset the `Honeypot` marker to 0.
-	
-If you're the only one playing the drone card, then you get all the honey in the `Honeypot`! Discard one of your flowers, and **donate** another one of your flowers back to the `Garden` (it's an *ethical drone*).
-
-Drones are free-lance, so after you used one put it in the `Bee Market`.
-
-### 3. Queens
- 
-You can hire **3 bees** from the `Bee Market` if you're the only one playing the worker card. 
-	
-Subtract 1 bee for each other player that also played this card. 
-
-> For example, if 2 players play the queen, they can hire (up to) 2 bees each. Also, if all players play the queen, nobody will be able to hire any bees. 
-
-The **starting price** of every bee is the current number of rounds. So bees start at 1 honey during the first round and by the 9th round they are worth 9 honey.
-
-When 2+ players want the same bee, they will enter an **auction** for it. The player with the least honey can start the auction. Players interested in that bee have to offer at least 1 honey more than the last offer. 
-
-To **hire a bee**, subtract its price in honey from your counter on the `Honeycomb` and add the same amount into the `Honeypot`.
-
-> For example, you currently hold 9 honey and the `Honeypot` is at 0. You're paying 3 honey for a bee, so your counter goes down to 6 and the `Honeypot` goes to 3. 
-
 ## Prepare the next round
-
-**Recharge** the `Honeypot` with the number of flowers left in the game (flowers in the garden + flowers picked by players).
-
-> For example, if there are 20 flowers left in the garden and 10 flowers held by players, then move the `Honeypot` counter forward by 30.
 
 Move the marker to the next space on the **round tracker**. 
 
 ## Last round!
 
-Predictably, on the last round everyone would want to use a drone card and sell  flowers to maximise their honey profits. There would be no point in picking flowers with a worker (there will be no chances to sell them after the game is over), or to hire more bees. 
+Predictably, on the last round everyone would want to use a drone card and sell all their flowers to maximise their honey profits. There would be no point in picking flowers with a worker (there will be no chances to sell them after the game is over), or to hire more bees. 
 
-However, the last round is special! The Queen becomes a *gambler*: if you use it, then you get to **roll the die** as many times as you have flowers. You get as much honey for each roll as the die says.
+However, the last round is special! 
+
+1. **Queens become futures traders**: if you play your queen in the last round, you get **2 honey for each flower other players have** (banking on their fortunes).
+
+	> For example: the total amount of flowers *other players* hold at the beginning of the last round is 7. By playing the queen, you get 14 honey (which you can add to your final score).
+2. **Workers become gamblers**: if you play a worker card in the last round, then you get to **roll the die** as many times as you have flowers. You get as much honey for each roll as the die says.
+
+	> For example: if you have 3 flowers, you get to roll the die 3 times and add each roll to your final honey score.
+3. For the drones it's *beesness as usual*.  
 
 
 # How to win
 
 ### At the end of the last round, **the player with the most honey wins!**
-
-
-
-# How not to lose
-
-### If flowers run out, at any point during the game, everybody loses *immediately*.
-
-To avoid this *beesaster* (and to prevent other players from killing the game by taking the last flower) anyone can **call a vote to replenish the garden** at any point during the game.
-
-`Are you willing to donate one of your bees in exchange for 2 new flowers?` 
-
-**You get 1 vote for each of your bees**. For example, if you have a total of 5 bees, you get 5 votes.
-
-* If there's a **majority of Yes** votes then *everyone* will discard one of their cards (any card) and add 2 new flowers to the garden. For example, in a 4-player game you would add 8 new flowers to the garden and set the 4 cards aside (not in the Bee Market, these cards won't get back in the game).
-* Otherwise, no flowers are replanted this turn.
 
 
 # Sticky situations <sup>FAQs</sup>   
@@ -182,7 +179,7 @@ To avoid this *beesaster* (and to prevent other players from killing the game by
 	Yas. As long as you trust them to pay their debt back...
 4. **I'm in a rush, can we play a shorter game?** 
 
-	Yep. You can shorten the game by playing less rounds.
+	Yep. You can shorten the game by playing less rounds. Keep in mind that in the last round queens and workers *beehave* differently!
 
 
 ## License
