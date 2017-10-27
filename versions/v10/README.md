@@ -25,13 +25,13 @@ These instructions are for 4 players: P1, P2, P3 and P4.
 
 We're testing how to make this work for 3 and 5 players. Meanwhile, you can email your suggestions to matteo@beesness.games!
 
-<!-- ![](assets/setup.png) -->
+![](assets/setup.jpg)
 
 ### 1. Flowers
 
 Flowers are the *natural resources* you can extract and sell. 
 
-Plant **12 flower tokens** in the `Garden of Commons` which grows at the centre of the table. 
+Plant **14 flower tokens** in the `Garden of Commons` which grows at the centre of the table. 
 
 Give **2 flower tokens** to each player.
 
