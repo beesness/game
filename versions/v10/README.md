@@ -25,7 +25,7 @@ These instructions are for 4 players: P1, P2, P3 and P4.
 
 We're testing how to make this work for 3 and 5 players. Meanwhile, you can email your suggestions to matteo@beesness.games!
 
-![](assets/setup.jpg)
+![](assets/beegin.jpg)
 
 ### 1. Flowers
 
