@@ -31,7 +31,7 @@ We're testing how to make this work for 3 and 5 players. Meanwhile, you can emai
 
 Flowers are the *natural resources* you can extract and sell. 
 
-Plant **14 flower tokens** in the `Garden of Commons` which grows at the centre of the table. 
+Plant **12 flower tokens** in the `Garden of Commons` which grows at the centre of the table. 
 
 Give **2 flower tokens** to each player.
 
@@ -43,13 +43,13 @@ You will need a total of **10 workers** (W), **10 drones** (D) and **4 queens** 
 
 Each player starts with 2W, 2D and 1Q.
 
-Put the remaining 2W and 2D in the `Bee Market`.
+Put 2W and 2D in the `Bee Market`.
 
-Type | Action | Full-time or freelance?
----- | ------ | ----------------
-**Worker** <br><br>![](assets/worker-bee.png) | **Pick flowers** from the garden up to the *last round*. Gamble on honey in the *last round* (more on that later). | Freelance. This means you use it for one job. After that, the bee goes to the `Bee Market`, where it can be hired by you or other players.
-**Drone** <br><br>![](assets/drone-bee.png) | **Sell flowers** for honey. | Freelance
-**Queen** <br><br>![](assets/queen.png) | **Hire bees** up to the *last round*. Cash in on other players' fortunes in the *last round*. | Full-time. This bee remains with you, it doesn't go to the `Bee Market` after a job.
+Type | Full-time or freelance? | Usual action | Last round action 
+-- | -- | -- | --
+**Worker** <br><br>![](assets/worker-bee.png) | **Freelance**. This means you use it for one job. After that, the bee goes to the `Bee Market`, where it can be hired by you or other players. | **Pick flowers** from the garden. | **Gamble** on honey (more on that later). 
+**Drone** <br><br>![](assets/drone-bee.png) | **Freelance** | **Sell flowers** for honey. | Same action as usual.
+**Queen** <br><br>![](assets/queen.png) | **Full-time**. This bee remains with you, it doesn't go to the `Bee Market` after a job. | **Hire bees**. | **Speculate** on other players' fortunes (more on that later). 
 
 ### 3. Honey
 
@@ -96,8 +96,8 @@ Decide which card to play, place it **face-down** on the table and when everyone
 You will carry out the chosen bee actions in this order:
 
 1. Queens
-2. Drones
-3. Workers
+2. Workers
+3. Drones
 
 When there are 2+ players going for the same bee, **the player with the least honey goes first**.
 
@@ -117,7 +117,17 @@ To **hire a bee**, subtract its price in honey from your counter on the `Honeyco
 
 > For example, you currently hold 9 honey and you're hiding a bee for 3 honey. Your counter goes down to 6.
 
-### 2. Drones
+### 2. Workers
+
+You can pick **3 flowers** if you're the only one playing the worker card. 
+	
+Subtract 1 flower for each other player that also played this card. 
+	
+> For example, if 2 players play the worker, they can pick 2 flowers each. Also, if all players play the worker, nobody will get any flowers.
+
+Workers are freelance, so after you used one put it in the `Bee Market`. 
+
+### 3. Drones
 
 You can trade (some of) your flowers for honey.
 
@@ -129,17 +139,8 @@ If two or more players chose the drone card, then they will enter a **blind bid*
 	
 If you're the only one playing the drone card, then you get all the honey in the `Stalk Exchange` for just 1 flower! 
 
-Drones are free-lance, so after you used one put it in the `Bee Market`.
+Drones are freelance, so after you used one put it in the `Bee Market`.
 
-### 3. Workers
-
-You can pick **3 flowers** if you're the only one playing the worker card. 
-	
-Subtract 1 flower for each other player that also played this card. 
-	
-> For example, if 2 players play the worker, they can pick 2 flowers each. Also, if all players play the worker, nobody will get any flowers.
-
-Workers are free-lance, so after you used one put it in the `Bee Market`. 
 
 ## Prepare the next round
 
