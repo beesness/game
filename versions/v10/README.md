@@ -21,9 +21,9 @@ Not your usual bees. In this game, bees have learned how to do business from us 
 
 # How to *beegin* <sup>setup</sup>
 
-These instructions are for 4 players: P1, P2, P3 and P4. 
+These instructions are for **4 players**. We're testing how to make this work for 3 and 5 players. Meanwhile, you can email your suggestions to matteo@beesness.games!
 
-We're testing how to make this work for 3 and 5 players. Meanwhile, you can email your suggestions to matteo@beesness.games!
+<!-- : P1, P2, P3 and P4. -->
 
 ![](assets/beegin.jpg)
 
