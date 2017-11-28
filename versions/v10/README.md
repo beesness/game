@@ -47,9 +47,10 @@ Put 2W and 2D in the `Bee Market`.
 
 Type | Full-time or freelance? | Usual action | Last round action 
 -- | -- | -- | --
+**Queen** <br><br>![](assets/queen.png) | **Full-time**. This bee remains with you, it doesn't go to the `Bee Market` after a job. | **Hire bees**. | **Speculate** on other players' fortunes (more on that later). 
 **Worker** <br><br>![](assets/worker-bee.png) | **Freelance**. This means you use it for one job. After that, the bee goes to the `Bee Market`, where it can be hired by you or other players. | **Pick flowers** from the garden. | **Gamble** on honey (more on that later). 
 **Drone** <br><br>![](assets/drone-bee.png) | **Freelance** | **Sell flowers** for honey. | Same action as usual.
-**Queen** <br><br>![](assets/queen.png) | **Full-time**. This bee remains with you, it doesn't go to the `Bee Market` after a job. | **Hire bees**. | **Speculate** on other players' fortunes (more on that later). 
+
 
 ### 3. Honey
 
