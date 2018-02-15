@@ -1,190 +1,54 @@
 # Beesness v10
 
-1. [Intro](#beesness-is-a-game-for-3-5-players-that-simulates-a-capitalist-market-economy)
-2. [Setup](#how-to-beegin-setup)
-3. [Gameplay](#how-to-beehave-gameplay)
-4. [How to win](#how-to-win)
-5. [FAQs](#sticky-situations-faqs) 
-
-[![](assets/bees.png)](#2-bees)
-
-### **Beesness** is a game for 3-5 players that simulates a *capitalist market economy*. 
-
-A *beesness* is a business for bees. 
-
-Not your usual bees. In this game, bees have learned how to do business from us humans: they can **trade** flowers for honey and honey for more bees. 
-
-**You** play the director of one beesness in times of *scarcity*. You compete against other players over **bees** (labour), **flowers** (resources) and **honey** (money). 
-
-**To win**, your beesness must end the game with **more honey** than any other beesness.
-
-
-# How to *beegin* <sup>setup</sup>
-
-These instructions are for **4 players**. We're testing how to make this work for 3 and 5 players. Meanwhile, you can email your suggestions to matteo@beesness.games!
-
-<!-- : P1, P2, P3 and P4. -->
-
-![](assets/beegin.jpg)
-
-### 1. Flowers
-
-Flowers are the *natural resources* you can extract and sell. 
-
-Plant **12 flower tokens** in the `Garden of Commons` which grows at the centre of the table. 
-
-Give **2 flower tokens** to each player.
-
-### 2. Bees
-
-Bees are the *labour* you can employ.
-
-You will need a total of **10 workers** (W), **10 drones** (D) and **4 queens** (Q).
-
-Each player starts with 2W, 2D and 1Q.
-
-Put 2W and 2D in the `Bee Market`.
-
-Type | Full-time or freelance? | Usual action | Last round action 
--- | -- | -- | --
-**Queen** <br><br>![](assets/queen.png) | **Full-time**. This bee remains with you, it doesn't go to the `Bee Market` after a job. | **Hire bees**. | **Speculate** on other players' fortunes (more on that later). 
-**Worker** <br><br>![](assets/worker-bee.png) | **Freelance**. This means you use it for one job. After that, the bee goes to the `Bee Market`, where it can be hired by you or other players. | **Pick flowers** from the garden. | **Gamble** on honey (more on that later). 
-**Drone** <br><br>![](assets/drone-bee.png) | **Freelance** | **Sell flowers** for honey. | Same action as usual.
-
-
-### 3. Honey
-
-Honey is *money*.
-
-Each player picks a colour token and places it on the `Honeycomb` at 6. 
-
-That means your initial capital is **6 honey**. 
-
-### 4. Stalk Exchange
-
-When you play a drone, you can sell flowers for honey.
-
-The more flowers are sold, the less their individual value (aka *supply&demand*).
-
-Total flowers sold <br><sup>by all players | Honey per flower
------------------- | ----------------
-1 | 18
-2 | 9
-3 | 6
-4 | 5
-5 | 4
-6 | 3
-7 - 13 | 2
-14 + | 1
-
-### 5. Rounds Tracker
-
-This helps you keep track of the rounds. Put a marker over the first round.
-
-There will be **9 rounds**.
-
-### 6. Bees Wage Tracker
-
-When you play the queen, you can invest your honey in hiring bees. Their starting price grows by 1 honey every 2 rounds.
-
-
-# How to *beehave* <sup>gameplay</sup> 
-
-The bee cards in your hand are kept **secret**, and you play **one card per round**.
-
-Decide which card to play, place it **face-down** on the table and when everyone is ready, **reveal your choices simultaneously**.
-
-You will carry out the chosen bee actions in this order:
-
-1. Queens
-2. Workers
-3. Drones
-
-When there are 2+ players going for the same bee, **the player with the least honey goes first**.
-
-### 1. Queens
- 
-You can hire **3 bees** from the `Bee Market` if you're the only one playing the worker card. 
-	
-Subtract 1 bee for each other player that also played this card. 
-
-> For example, if 2 players play the queen, they can hire (up to) 2 bees each. Also, if all players play the queen, nobody will be able to hire any bees. 
-
-The **starting price** of every bee increments every 2 rounds, as indicated by the *Bees Wage Tracker*. Hiring bees becomes increasingly expensive as the game progresses.
-
-When 2+ players want the same bee, they will enter an **auction** for it. The player with the least honey can start the auction. Players interested in that bee have to offer at least 1 honey more than the last offer. You may *beed* for only 1 bee at a time.
-
-To **hire a bee**, subtract its price in honey from your counter on the `Honeycomb`.
-
-> For example, you currently hold 9 honey and you're hiding a bee for 3 honey. Your counter goes down to 6.
-
-### 2. Workers
-
-You can pick **3 flowers** if you're the only one playing the worker card. 
-	
-Subtract 1 flower for each other player that also played this card. 
-	
-> For example, if 2 players play the worker, they can pick 2 flowers each. Also, if all players play the worker, nobody will get any flowers.
-
-Workers are freelance, so after you used one put it in the `Bee Market`. 
-
-### 3. Drones
-
-You can trade (some of) your flowers for honey.
-
-The flowers you trade will go back in the centre of the table, and the honey you gain from the trade will be added to your capital in the `Honeycomb`.
-
-If two or more players chose the drone card, then they will enter a **blind bid**. Put the flowers you want to trade in your hand. Without revealing them, place your closed fist at the centre of the table (even if you're not trading any flowers). When everyone is ready, open your hands to show how many flowers you are trading. Count the flowers everyone is trading, and pay players off according to the `Stalk Exchange`.
-
-> For example: you are selling 2 flowers and another player is selling 3. The total is 5 and according to the `Stalk Exchange` that means 4 honey per flower. So you get 8 honey and the other player 12. Move your counter on the `Honeycomb` 8 steps ahead and the other player's counter by 12 steps.
-	
-If you're the only one playing the drone card, then you get all the honey in the `Stalk Exchange` for just 1 flower! 
-
-Drones are freelance, so after you used one put it in the `Bee Market`.
-
-
-## Prepare the next round
-
-Move the marker to the next space on the **round tracker**. 
-
-## Last round!
-
-Predictably, on the last round everyone would want to use a drone card and sell all their flowers to maximise their honey profits. There would be no point in picking flowers with a worker (there will be no chances to sell them after the game is over), or to hire more bees. 
-
-However, the last round is special! 
-
-1. **Queens become futures traders**: if you play your queen in the last round, you get **2 honey for each flower other players have** (banking on their fortunes).
-
-	> For example: the total amount of flowers *other players* hold at the beginning of the last round is 7. By playing the queen, you get 14 honey (which you can add to your final score).
-2. **Workers become gamblers**: if you play a worker card in the last round, then you get to **roll the die** as many times as you have flowers. You get as much honey for each roll as the die says.
-
-	> For example: if you have 3 flowers, you get to roll the die 3 times and add each roll to your final honey score.
-3. For the drones it's *beesness as usual*.  
-
-
-# How to win
-
-### At the end of the last round, **the player with the most honey wins!**
-
-
-# Sticky situations <sup>FAQs</sup>   
-
-1. **Do my bees count at the end of the game?**
-
-	**No**. It's just the honey you have (that is, your *profits*) and not the overall *valuation* of your beesness. 
-2. **Can I make alliances with other players?**
-
-	Sure, why not? The terms of your trade agreements are up to you. 
-3. **Can I lend honey to other players?** 
-
-	Yas. As long as you trust them to pay their debt back...
-4. **I'm in a rush, can we play a shorter game?** 
-
-	Yep. You can shorten the game by playing less rounds. Keep in mind that in the last round queens and workers *beehave* differently!
-
-
-## License
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0)
-
-[![](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0)
+There are currently three sub-versions of v10.
+
+### What they have in common
+
+* Everyone starts with 5 bee cards (2 workers, 2 drones and 1 queen), 2 flowers and 6 honey.
+* Each player can play only one card per round. Place your chosen card face-down, and when everyone has made their choice, reveal the cards simultaneously, and resolve their actions in this order:
+	1. queen(s)
+	2. worker(s)
+	3. drone(s)
+* Workers (freelance = play & discard) can pick flowers
+* Drones (also freelance) sell flowers for honey
+* Queens (full-time = play & take back) hire freelance bees
+* You get the maximum return for your chosen card when you're the only one playing it in a round. The more people play the same card, the less they get out of it.
+
+### What they don't have in common
+
+1. [**v10.1**](v10.1.md), aka *The Fixed Term*
+	* 12 flowers in the commons to start with
+	* 9 rounds, whoever has the most honey at the end is the winner
+	* No *beesaster* (see below)
+	* No flowers replanting at the end of each round
+	* Flowers <-> honey conversion chart
+	* In the last round workers become *gamblers* and queens become *speculators*
+2. **v10.2**, aka *The Convoluted*
+	* 12 flowers in the commons to start with
+	* As many rounds as it takes the winner to get to 36+ honey
+	* Replanting 1/3 of flowers left at the end of each round
+	* Flowers <-> honey conversion chart
+	* Compulsory die roll at the end of each round. if rolled number is bigger than flowers left, the game is over and everybody loses (aka **beesaster**)
+	* *Beesaster* referendum with game-theory-style pay-offs.
+3. **v10.3**, aka *The Realpolitik*
+	* 9 flowers in the commons to start with
+	* As many rounds as it takes the winner to get to 36+ honey
+	* No Flowers <-> honey conversion chart. Instead, *honeypot* is 18H - number of flowers left in the commons
+	* Blind bid for honeypot: winner takes it all, and losers still lose the flowers they committed
+	* No flowers replanting at the end of each round. Instead, roll a special 6-sided die with numbers ranging from -3 to +2 (including 0), which determines how many flowers will be removed/added to the commons
+	* *Beesaster* happens if the commons run out of flowers (either picked by players or decided by die roll)
+	* *Beesaster* referendum with game-theory-style pay-offs & anyone can call a ref before the end-of-round die roll
+
+### Why so many versions?
+
+**v10.1** was the first version of Beesness I wasn't ashamed of. Fellow designers at the PlaytestUK meetup in London really liked it, and so did friends & friendly strangers at several playtest sessions. The **simultaneous-action mechanic** (one card per round) produces quick and intense games, and everyone is constantly engaged as their actions depend on the other players. Also, the variance between player scores tends to be small, which means games are still open to at least two players until the end.
+
+So that's a fun game. However, while optimising the *entertainment*, I parked element of the game which I still consider important. Let's call them the *critical* components: a collapsing ecosystem leading to *beesaster* (game over + everyone loses) and the democratic possibility of avoiding beesaster (through referendums).
+
+I had a refreshing chat with Andrew Sheerin (designer of the infamous [War on Terror](https://www.terrorbullgames.co.uk/games/war_on_terror_game.php) and other brilliant games) about my struggle to combine a fun game with a critical agenda. His feedback was illuminating:
+
+1. *Beesaster* in previous versions was the individual responsibility of the player who happened to be in the position to take the last flower. That gave such player the supreme power to end the game (and potentially ruin it for everyone else, which is why the PlaytestUK peeps didn't like it). Andrew suggested that it should be a collective responsibility.
+2. The game should encourage players to stress-test the ecosystem. Andrew suggested to try and link the flower return to the number of flowers left, somehow. That way, players would be encouraged to starve the commons in order to maximise their returns.
+3. Andrew also suggested to experiment with strong incentives to sell as little flowers as possible.
+
+In short, adding interesting choices for players around the *beesaster*-related parts of the game. The aim is to create a tension between the selfish+competitive player motivation (aka the capitalist mandate) and the need to balance the ecosystem.
