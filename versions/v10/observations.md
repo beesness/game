@@ -1,4 +1,4 @@
-### Solo playtesting
+# Solo playtesting
 
 * What if all 4 players play the same card? Well that's a missed turn for everyone, as they can't perform any action. For example, if all 4 players used the D on the same turn, with the D power starting at 3F and decreasing by 1F for each other player using the same card, then it would be `3 - 3 = 0`, ie nobody can sell any F.
 * Predictably, the last round everyone wants to use their drones to sell out.. is there any other way to make this more interesting? Maybe get a *fixed amount* of H for each F you don't sell (my hunch is somewhere between 5 and 7 H).
