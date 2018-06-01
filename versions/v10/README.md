@@ -47,6 +47,31 @@ There are currently three sub-versions of v10.
 	* Blind bid for honeypot: winner takes it all, and losers still lose the flowers they committed.
 	* Honeypot: 18 - F
 	* Beesaster: if all flowers run out. Or if there is too much landfill (ratio between flowers and sold products)?
+5. **v10.5**
+	* Each player starts with
+		- 3 worker cards (instead of 2)
+		- 2 drone cards
+		- 1 queen card
+		- 2 pieces of stuff to sell (see below what I mean by stuff)
+		- 0 honey, no honey, nada, you’re a lean startup beesness
+	* Bees deck starts with
+		- 3 worker cards (instead of 2)
+		- 2 drone cards
+	* Garden starts with **9 flowers**.
+	* Honeypot is **12 - flowers left** in the garden. 	
+	* Workers pick flowers. Flowers allowance = total players - active workers (as usual)
+	* At the end of each round, **replant 1 flower for each worker active on that round**. You could think of it as pollination. The more workers go out in the garden, the more they pollinate, and the more flowers will grow in the future. Crucially, this means that replanting the garden (to avoid its depletion and prevent Beesaster) is possible. Using many workers, ideally all players agreeing to choose the worker for a round. In that case no flowers would be taken from the garden, and many would be replanted (as many as there are players). With this rule there is no need for a referendum mechanic, but players need consensus to make it happen and there could always be someone who chooses a different card to take advantage of the situation.  This change prompted me to increase the number of workers, to incentivise their use as a vote2replant card. 
+	* **Beesaster** still happens if the flowers run out, but instead of triggering game over and loss for everyone, it **eliminates only the player who took the last flower**. The underlying tension between depleting the garden to maximise profits and keeping it afloat should remain, but by eliminating only one player instead of all, I hope to remove the threat of “disgruntled players screwing everyone over”. This will likely require a clarification: when playing the worker, you don’t have to take all the flowers you’re entitled to take. Maybe players could take precedence by paying honey (just like irl).
+	* **Flowers and stuff** Workers pick flowers (green tokens) from the garden and they immediately turn them into _stuff_ (coloured cubes). This is to visualise the process of transformation of natural resources / raw materials (the flowers) into products for the market (the stuff). Drones then will sell stuff instead of flowers (which confused quite a few playtesters). Sold stuff will go into the garden (middle of the table) and becomes landfill. It works as a visual reminder of who sold what. There could be room to experiment with “recycling the stuff”. Maybe the more landfill there is, the harder it becomes to grow flowers, or there could be another beesaster triggered by too much landfill.
+	* **Freelance bees** Hiring bees becomes increasingly expensive depending on the amount of honey held by the hiring player. It goes like this
+		- you have between 0 - 9 honey -> hire bees for free
+		- 10 - 19 -> bees cost you 1 honey each
+		- 20 - 29 -> bees cost 2 honeys
+		- 30 - 39 -> 3 honeys
+		- etc.
+		This could be a nice come-back mechanic.
+6. **v10.6** 	
+
 
 ### Why so many versions?
 
