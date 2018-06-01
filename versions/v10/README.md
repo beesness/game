@@ -38,6 +38,15 @@ There are currently three sub-versions of v10.
 	* No flowers replanting at the end of each round. Instead, roll a special 6-sided die with numbers ranging from -3 to +2 (including 0), which determines how many flowers will be removed/added to the commons
 	* *Beesaster* happens if the commons run out of flowers (either picked by players or decided by die roll)
 	* *Beesaster* referendum with game-theory-style pay-offs & anyone can call a ref before the end-of-round die roll
+4. **v10.4** Foragers, workers and drones
+	* Foragers pick flowers. 3 max, -1 for each other active forager.
+	* At the end of each round, replant a flower for each forager active on that round. This means that the mechanism to replant the garden already exist, but you need consensus to make it happen (and there could always be someone who uses a different card to take advantage of the situation).
+	* Workers transform flowers into *products* (coloured boxes). 3 max, -1 for each other active worker.
+	* There is no queen so all bees are full-time.
+	* Drones sell products (instead of flowers). Sold products go into the garden, becoming a sort of landfill.
+	* Blind bid for honeypot: winner takes it all, and losers still lose the flowers they committed.
+	* Honeypot: 18 - F
+	* Beesaster: if all flowers run out. Or if there is too much landfill (ratio between flowers and sold products)?
 
 ### Why so many versions?
 
