@@ -88,7 +88,7 @@ Hiring bees becomes increasingly expensive depending on the amount of honey held
 	- etc.
 	This could be a nice come-back mechanic.
 
-### **v10.6**, aka *The Collectivebeesm*
+### **v10.6**, aka *The Collectibeesm*
 
 Semantic _refactoring_. `Honey = money` was a nice pun, but it confused many people too. So I separated those two entities and adjusted the game metaphors: **workers pick flowers to produce honey** (which was previously called _stuff_), then **drones sell honey to make money**. In other words, we have imposed a _profit mandate_ on the hive, turning it into a _beesness_. This makes more sense to people when I explain it.
 
